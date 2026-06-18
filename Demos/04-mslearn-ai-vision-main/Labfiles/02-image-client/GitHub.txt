@@ -1,0 +1,2 @@
+--- Generate images with AI ---
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/02-generate-image.html
