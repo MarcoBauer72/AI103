@@ -1,0 +1,2 @@
+--- Analyze images with Azure Content Understanding ---
+https://microsoftlearning.github.io/mslearn-ai-vision/Instructions/Exercises/04-content-understanding.html
