@@ -1,0 +1,2 @@
+--- Extract data with Azure Document Intelligence ---
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Exercises/03-document-intelligence.html

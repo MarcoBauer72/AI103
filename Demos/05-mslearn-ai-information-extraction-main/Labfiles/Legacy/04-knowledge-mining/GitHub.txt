@@ -1,0 +1,2 @@
+--- Create a knowledge mining solution ---
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Exercises/04-knowledge-mining.html

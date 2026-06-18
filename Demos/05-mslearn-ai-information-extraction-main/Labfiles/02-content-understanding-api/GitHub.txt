@@ -1,0 +1,2 @@
+--- Develop a Content Understanding client application ---
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Exercises/02-content-understanding-api.html

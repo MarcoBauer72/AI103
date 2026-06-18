@@ -1,0 +1,2 @@
+--- Extract information from multimodal content ---
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Exercises/01-content-understanding.html
