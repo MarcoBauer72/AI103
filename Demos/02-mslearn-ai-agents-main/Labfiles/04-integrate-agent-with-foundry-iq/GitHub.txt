@@ -1,0 +1,2 @@
+--- Integrate an AI agent with Foundry IQ ---
+https://go.microsoft.com/fwlink/?linkid=2347700
