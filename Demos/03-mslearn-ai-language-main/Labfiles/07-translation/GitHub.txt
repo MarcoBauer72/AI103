@@ -1,0 +1,2 @@
+--- Translate text and speech ---
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/07-translation.html

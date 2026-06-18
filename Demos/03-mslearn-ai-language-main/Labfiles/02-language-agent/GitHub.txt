@@ -1,0 +1,2 @@
+--- Develop a text analysis agent ---
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/02-language-agent.html

@@ -1,0 +1,2 @@
+--- Use speech-capable generative AI models ---
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/03-gen-ai-speech.html

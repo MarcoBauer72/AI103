@@ -1,0 +1,2 @@
+--- Use Azure Speech in an agent ---
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/05-azure-speech-mcp.html

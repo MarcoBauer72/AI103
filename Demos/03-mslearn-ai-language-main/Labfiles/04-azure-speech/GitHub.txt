@@ -1,0 +1,2 @@
+--- Recognize and synthesize speech ---
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Exercises/04-azure-speech.html
