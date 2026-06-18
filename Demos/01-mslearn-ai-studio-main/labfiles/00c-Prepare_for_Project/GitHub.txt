@@ -1,0 +1,5 @@
+---- AI Toolkit no VSCODE -----
+
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/Exercises/01-Explore-ai-studio.html
+
+* Sem código envolvido!

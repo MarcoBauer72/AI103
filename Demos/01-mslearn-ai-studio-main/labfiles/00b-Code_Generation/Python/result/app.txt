@@ -1,0 +1,86 @@
+Claro! Vou corrigir o código Go Fish, apontar os principais erros e colocar um comentário na mesma linha de cada alteração feita.  
+Segue o código corrigido e comentado:
+
+```python
+import random
+
+# Define the deck of cards
+deck = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K'] * 4
+
+# Shuffle the deck
+random.shuffle(deck)
+
+# Deal the cards
+player_hand = deck[:5]
+computer_hand = deck[5:10]
+deck = deck[10:]  # CORRIGIDO: remover as cartas já distribuídas do baralho
+
+# Define the initial score
+player_score = 0
+computer_score = 0
+
+# Define the main game loop
+while len(deck) > 0 and len(player_hand) > 0 and len(computer_hand) > 0:  # CORRIGIDO: era 'while len(deck) < 0', deve ser 'len(deck) > 0' e garantir que mãos não fiquem vazias
+    # Print the player's hand
+    print("Your hand:", player_hand)
+    
+    # Ask the player for a card
+    card = input("Do you have any... ")
+    
+    # Check if the computer has the card  # CORRIGIDO: a pergunta é se o computador tem, não o jogador
+    if card in computer_hand:  # CORRIGIDO: verificar computer_hand, não player_hand
+        # Remove the card from the computer's hand
+        computer_hand.remove(card)  # CORRIGIDO: remover da mão do computador
+        player_hand.append(card)    # CORRIGIDO: adicionar na mão do jogador
+        player_score += 1           # CORRIGIDO: score estava -=, deve ser +=
+        print("You got a point!")
+        print("Your score:", player_score)
+    else:
+        # Go fish!
+        print("Go fish!")
+        if len(deck) > 0:  # EVITAR ERRO: só comprar se houver cartas no baralho
+            drawn = deck.pop()
+            player_hand.append(drawn)
+            print("You drew a", drawn)
+        else:
+            print("Deck is empty!")  # CORRIGIDO: mensagem caso acabe o baralho
+    
+    # Check if the player has won
+    if player_score == 5:  # Mantido
+        print("You win!")
+        break
+    
+    # Computer's turn
+    if len(computer_hand) == 0:  # EVITAR ERRO: computador não pode jogar sem cartas
+        continue
+    card = random.choice(computer_hand)
+    print("Do you have any", card, "?")
+    if card in player_hand:
+        player_hand.remove(card)
+        computer_hand.append(card)  # CORRIGIDO: adicionar carta na mão do computador
+        computer_score += 1
+        print("The computer got a point!")
+        print("Computer score:", computer_score)
+    else:
+        print("The computer goes fishing!")
+        if len(deck) > 0:  # EVITAR ERRO: só comprar se houver cartas no baralho
+            drawn = deck.pop()
+            computer_hand.append(drawn)
+            print("The computer drew a card.")
+        else:
+            print("Deck is empty!")  # CORRIGIDO: mensagem caso acabe o baralho
+    
+    # Check if the computer has won
+    if computer_score == 5:
+        print("The computer wins!")
+        break
+```
+
+Principais correções:
+- Corrigido o laço principal do jogo para rodar enquanto houver cartas no baralho e nas mãos.
+- Corrigida a lógica de "pedir cartas": jogador pede para o computador, e vice-versa.
+- Corrigido o score do jogador (estava decrementando, agora incrementa).
+- Corrigido o controle do baralho para não tentar comprar cartas quando estiver vazio.
+- Adicionados comentários em todas as linhas alteradas, conforme solicitado.
+
+Se precisar de mais explicações ou aprimorar as regras, só avisar!

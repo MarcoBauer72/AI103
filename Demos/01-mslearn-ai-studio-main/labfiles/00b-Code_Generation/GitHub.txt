@@ -1,0 +1,5 @@
+----- Analisa codigo de programacao -----
+
+Instruções :  https://github.com/MarcoBauer72/AI102-OPENAI/blob/main/Instructions/Exercises/04-code-generation.md
+
+Código Git : https://github.com/MarcoBauer72/AI102-OPENAI/tree/main/Labfiles/04-code-generation

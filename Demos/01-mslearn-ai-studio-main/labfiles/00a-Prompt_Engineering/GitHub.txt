@@ -1,0 +1,4 @@
+------------ By Examples ------------ 
+
+https://github.com/MarcoBauer72/AI102-OPENAI/blob/main/Instructions/Exercises/03-prompt-engineering.md
+

@@ -1,0 +1,3 @@
+Instruções :  https://github.com/MicrosoftLearning/mslearn-openai/blob/main/Instructions/Labs/02-use-own-data.md
+
+Código Git : https://github.com/MicrosoftLearning/mslearn-openai/tree/main/Labfiles/02-use-own-data
