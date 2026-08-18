@@ -1,0 +1,14 @@
+Site Oficial : https://claude.ai/
+
+Claude no Azure Foundry : https://code.claude.com/docs/en/microsoft-foundry
+
+Video : https://www.youtube.com/watch?v=yDO21vewdes
+
+
+Claude Haiku - rápido e mais barato (perde pro Composer 2.5 no custo)
+
+Claude Sonnet - intermediário e custo médio (empata com o Composer 2.5)
+
+Claude Opus - mais caro, mais robusto (ganha do Composer 2.5)
+
+
