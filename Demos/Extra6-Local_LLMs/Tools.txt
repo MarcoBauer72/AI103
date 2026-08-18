@@ -1,3 +1,7 @@
-Ollama 
+Ollama + Anything LLM
 LLM Studio
-Anything LLM
+
+--- MCP Server STDIO Local ---
+
+Node Package Execute:
+npx @modelcontextprotocol/inspector python mcp_server.py

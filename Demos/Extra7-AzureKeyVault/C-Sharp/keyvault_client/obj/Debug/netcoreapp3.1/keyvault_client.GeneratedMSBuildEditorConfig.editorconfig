@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = keyvault_client
+build_property.ProjectDir = D:\AI102-2026\AI-102-AIEngineer-master_full\02-cognitive-security\C-Sharp\keyvault_client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

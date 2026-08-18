@@ -1,0 +1,2 @@
+--- Manage Azure AI Services Security ---
+https://github.com/MarcoBauer72/AI102OLD/blob/master/Instructions/02-cognitive-services-security.md
