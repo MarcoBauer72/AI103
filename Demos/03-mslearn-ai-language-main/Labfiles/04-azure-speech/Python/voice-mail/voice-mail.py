@@ -16,7 +16,6 @@ def main():
         # Get Configuration Settings
         load_dotenv()
         foundry_endpoint = os.getenv('FOUNDRY_ENDPOINT')
-        foundry_key = os.getenv('FOUNDRY_KEY')
 
         # Create speech_config using Entra ID authentication
         # Create speech_config using Entra ID authentication
@@ -55,10 +54,10 @@ def record_greeting(speech_config):
 
 
     # Synthesize the greeting message to an audio file
-    output_file = "greetingGreen.wav"
+    output_file = "greeting.wav"
     audio_config = speech_sdk.audio.AudioOutputConfig(filename=output_file)
 
-    speech_config.speech_synthesis_voice_name = "fr-FR-DeniseNeural" #"en-US-Serena:DragonHDLatestNeural"
+    speech_config.speech_synthesis_voice_name = "en-US-Serena:DragonHDLatestNeural" #"en-US-Serena:DragonHDLatestNeural"
 
     speech_synthesizer = speech_sdk.SpeechSynthesizer(
         speech_config=speech_config,
