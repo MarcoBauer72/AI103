@@ -1,2 +1,6 @@
 --- Manage Azure AI Services Security ---
 https://github.com/MarcoBauer72/AI102OLD/blob/master/Instructions/02-cognitive-services-security.md
+
+ADF/SYNAPSE:
+https://github.com/dave-007/DP-203-Data-Engineer/blob/dfca368c84478abfbca79a822444c0d0874dd71f/Instructions/Labs/LAB_08_security_with_synapse_analytics.md
+
