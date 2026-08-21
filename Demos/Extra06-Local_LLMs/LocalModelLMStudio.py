@@ -8,9 +8,8 @@ load_dotenv()
 
 # Configura o cliente para apontar para o LM Studio local
 client = OpenAI(
-    base_url = os.getenv("LMSTUDIO_BASE_URL"),  # Endereço padrão do LM Studio
-    api_key = os.getenv("LMSTUDIO_API_KEY")  # O LM Studio não exige chave, mas o código pede um texto qualquer
-)
+    base_url = os.getenv("LMSTUDIO_BASE_URL"),  
+    api_key = os.getenv("LMSTUDIO_API_KEY")  
 
 while True:
     entrada = input("Em que posso ajudar hoje? (* digite ""sair"" para encerrar o chat): ")
@@ -28,7 +27,7 @@ while True:
     try:
         # Envia a mensagem para o modelo local
         response = client.chat.completions.create(
-            model=os.getenv("LMSTUDIO_MODEL"),  # O LM Studio aceita qualquer nome aqui e usa o modelo ativo
+            model=os.getenv("LMSTUDIO_MODEL"),  
             messages=[
                 {"role": "system", "content": "Seja um assistente útil e direto e sempre responda na língua Portugues do Brasil."},
                 {"role": "user", "content": f"{entrada}"} # Mensagem do Usuário

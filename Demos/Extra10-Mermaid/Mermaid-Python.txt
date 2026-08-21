@@ -1,0 +1,20 @@
+https://mermaid.ai/
+
+https://pypi.org/project/mermaid-py/
+
+pip install mermaid-py
+
+import mermaid as md
+from mermaid.graph import Graph
+
+render = md.Mermaid("""
+stateDiagram-v2
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+""")
+render # !! note this only works in the notebook that rendered the html.

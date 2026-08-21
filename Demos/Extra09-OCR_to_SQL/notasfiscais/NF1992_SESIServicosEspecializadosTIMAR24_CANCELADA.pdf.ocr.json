@@ -1,0 +1,9308 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2025-10-24T11:23:28Z",
+	"lastUpdatedDateTime": "2025-10-24T11:23:33Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "prebuilt-layout",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "20240404014168589000146\nPREFEITURA DO MUNICÍPIO DE SÃO PAULO SECRETARIA MUNICIPAL DA FAZENDA\nNOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e\nNumero da Nota\n00001992\nData e Hora de Emissão 04/04/2024 15:13:34\nCódigo de Verificação BX3J-DNME\nPRESTADOR DE SERVIÇOS\nosbr\nCPF/CNPJ: 14.168.589/0001-46\nInscrição Municipal: 4.570,770-7 Nome/Razão Social: OPTIMUS SYSTEM CONSULTORIA EM INFORMATICA E SAUDE LTDA Endereço: R JOAQUIM ANTUNES 1034, ANDAR 6 - PINHEIROS - CEP: 05415-001 Município: São Paulo UF: SP\nTOMADOR DE SERVIÇOS\nNome/Razão Social: SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL\nCPF/CNPJ: 33.564.543/0001-90\nEndereço: CJ SBN Quadra 1 SN, ED. ROBERTO SIMONSEN - Asa Norte - CEP: 70040-903 Município: Brasília\nUF: DF\nE-mail: recebimento@cni.org.br\nINTERMEDIARIO DE SERVIÇOS\nCPF/CNPJ: ----\nNome/Razão Social:\nDISCRIMINAÇÃO DOS SERVIÇOS\nAss. e cons. informática, prest. serv. inf. : Serviços especializados em TT para o SESI-DN\nSOLICITAÇÃO DE COMPRA: 025400 Centro de Custo: CNI/SESI/SENAI - DN - 401000 - Analytics - Engenharia ob observatório Nacional\nVENCIMENTO: 22/04/2024\nVALOR BRUTO: R$ 10.250,00\nRETENÇÕES : - 1,5% I.R. Fonte: R$ 153, 75, conforme art. 647, itens 12 e 18 do RIR/99. - 4,65% PIS/COFINS/CSLL: PS 476, 63, conforme Lei 10.833/03. Conforme Lei 12.741/2012, os tributos federais incidentes são aproximadamente 17,25% e os municipais corresponde ao ISS demonstrado nesta nota fiscal.\nVALOR LÍQUIDO A SER DEPOSITADO: R$ 9.619, 63\nFAVOR DEPOSITAR O VALOR LÍQUIDO EM CONTA ATÉ O VENCIMENTO: Optimus System Consultoria em informática e saúde Ltda. CNPJ : 14.168.589/0001-46 Itaú (341) , Agência 0185, Conta Corrente 17262-4.\nVALOR TOTAL DO SERVIÇO = R$ 10.250,00\nIMSS (R$)\nIRRF (R$)\n153,75\nCSLL (R$)\n102,50\nCOFINS (R$)\n307,50\nPIS/PASEP (R$)\n66,63\nCódigo do Serviço\n02881 - Assessoria e consultoría em informática.\nValor Total das Deduções (R$)\n0,00\nBase de Cálculo (R$)\n10.250,00\nAlíquota (%)\n2,90%\nValor do ISS (R$)\n297,25\nCrédito (R$)\n0,00\nNúmero Inscrição da Obra\nValor Aproximado dos Tributos / Fonte\nOUTRAS INFORMAÇÕES\n(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Esta NFS-e foi CANCELADA em 04/04/2024;\nInscrição Municipal: NOTA CANCELADA Municipio da Prestação do Serviço :unselected: :unselected: :unselected: :selected: :selected: :selected: :unselected: :unselected: :selected: :unselected: :unselected: :unselected: :selected: :selected: :selected: :unselected: :selected: :selected: :selected: :selected: :unselected: :unselected:",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": -0.01080000028014183,
+				"width": 8.25,
+				"height": 11.6806,
+				"unit": "inch",
+				"words": [
+					{
+						"content": "20240404014168589000146",
+						"polygon": [
+							0.8064,
+							0.9781,
+							1.8998,
+							0.9757,
+							1.8996,
+							1.0642,
+							0.8063,
+							1.0642
+						],
+						"confidence": 0.543,
+						"span": {
+							"offset": 0,
+							"length": 23
+						}
+					},
+					{
+						"content": "PREFEITURA",
+						"polygon": [
+							1.7557,
+							0.2133,
+							2.9841,
+							0.2109,
+							2.9822,
+							0.4061,
+							1.754,
+							0.4056
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 24,
+							"length": 10
+						}
+					},
+					{
+						"content": "DO",
+						"polygon": [
+							3.0457,
+							0.2109,
+							3.318,
+							0.2104,
+							3.3163,
+							0.4073,
+							3.0438,
+							0.4064
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 35,
+							"length": 2
+						}
+					},
+					{
+						"content": "MUNICÍPIO",
+						"polygon": [
+							3.3925,
+							0.2102,
+							4.394,
+							0.2059,
+							4.3929,
+							0.4088,
+							3.3909,
+							0.4073
+						],
+						"confidence": 0.759,
+						"span": {
+							"offset": 38,
+							"length": 9
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							4.4653,
+							0.206,
+							4.7149,
+							0.207,
+							4.7134,
+							0.4089,
+							4.4641,
+							0.4089
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 48,
+							"length": 2
+						}
+					},
+					{
+						"content": "SÃO",
+						"polygon": [
+							4.7862,
+							0.2067,
+							5.1751,
+							0.2061,
+							5.1735,
+							0.4071,
+							4.7847,
+							0.4086
+						],
+						"confidence": 0.652,
+						"span": {
+							"offset": 51,
+							"length": 3
+						}
+					},
+					{
+						"content": "PAULO",
+						"polygon": [
+							5.2432,
+							0.2063,
+							5.9051,
+							0.2068,
+							5.9051,
+							0.4039,
+							5.2415,
+							0.4067
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 55,
+							"length": 5
+						}
+					},
+					{
+						"content": "SECRETARIA",
+						"polygon": [
+							2.519,
+							0.4679,
+							3.4206,
+							0.4666,
+							3.4199,
+							0.6074,
+							2.5185,
+							0.6056
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 61,
+							"length": 10
+						}
+					},
+					{
+						"content": "MUNICIPAL",
+						"polygon": [
+							3.4644,
+							0.4666,
+							4.2022,
+							0.4655,
+							4.2016,
+							0.6078,
+							3.4637,
+							0.6075
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 72,
+							"length": 9
+						}
+					},
+					{
+						"content": "DA",
+						"polygon": [
+							4.2576,
+							0.4656,
+							4.4466,
+							0.4659,
+							4.4461,
+							0.6074,
+							4.257,
+							0.6078
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 82,
+							"length": 2
+						}
+					},
+					{
+						"content": "FAZENDA",
+						"polygon": [
+							4.4974,
+							0.466,
+							5.152,
+							0.4646,
+							5.152,
+							0.6055,
+							4.4969,
+							0.607
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 85,
+							"length": 7
+						}
+					},
+					{
+						"content": "NOTA",
+						"polygon": [
+							1.9656,
+							0.7298,
+							2.4176,
+							0.7294,
+							2.4168,
+							0.885,
+							1.9649,
+							0.8841
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 93,
+							"length": 4
+						}
+					},
+					{
+						"content": "FISCAL",
+						"polygon": [
+							2.4646,
+							0.7294,
+							2.9975,
+							0.7277,
+							2.9967,
+							0.8856,
+							2.4638,
+							0.885
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 98,
+							"length": 6
+						}
+					},
+					{
+						"content": "ELETRÔNICA",
+						"polygon": [
+							3.0498,
+							0.7275,
+							4.0426,
+							0.7267,
+							4.0419,
+							0.8882,
+							3.049,
+							0.8859
+						],
+						"confidence": 0.564,
+						"span": {
+							"offset": 105,
+							"length": 10
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							4.0896,
+							0.7267,
+							4.2908,
+							0.7272,
+							4.29,
+							0.8877,
+							4.089,
+							0.8883
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 116,
+							"length": 2
+						}
+					},
+					{
+						"content": "SERVIÇOS",
+						"polygon": [
+							4.3378,
+							0.7274,
+							5.1085,
+							0.728,
+							5.1075,
+							0.8897,
+							4.337,
+							0.8876
+						],
+						"confidence": 0.582,
+						"span": {
+							"offset": 119,
+							"length": 8
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							5.1556,
+							0.7279,
+							5.2104,
+							0.728,
+							5.2094,
+							0.8897,
+							5.1545,
+							0.8897
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 128,
+							"length": 1
+						}
+					},
+					{
+						"content": "NFS-e",
+						"polygon": [
+							5.2574,
+							0.7283,
+							5.7054,
+							0.7285,
+							5.7054,
+							0.8897,
+							5.2565,
+							0.8897
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 130,
+							"length": 5
+						}
+					},
+					{
+						"content": "Numero",
+						"polygon": [
+							6.1021,
+							0.1968,
+							6.4875,
+							0.1969,
+							6.4871,
+							0.2966,
+							6.1015,
+							0.2966
+						],
+						"confidence": 0.542,
+						"span": {
+							"offset": 136,
+							"length": 6
+						}
+					},
+					{
+						"content": "da",
+						"polygon": [
+							6.5287,
+							0.1969,
+							6.6407,
+							0.1975,
+							6.6403,
+							0.2966,
+							6.5283,
+							0.2966
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 143,
+							"length": 2
+						}
+					},
+					{
+						"content": "Nota",
+						"polygon": [
+							6.6786,
+							0.1972,
+							6.9092,
+							0.1968,
+							6.9092,
+							0.2966,
+							6.6782,
+							0.2966
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 146,
+							"length": 4
+						}
+					},
+					{
+						"content": "00001992",
+						"polygon": [
+							6.3877,
+							0.3241,
+							7.1489,
+							0.3231,
+							7.1489,
+							0.4677,
+							6.3876,
+							0.4677
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 151,
+							"length": 8
+						}
+					},
+					{
+						"content": "Data",
+						"polygon": [
+							6.1054,
+							0.4883,
+							6.3332,
+							0.4869,
+							6.3325,
+							0.5972,
+							6.1042,
+							0.5979
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 160,
+							"length": 4
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							6.3748,
+							0.4867,
+							6.4218,
+							0.4868,
+							6.4213,
+							0.5975,
+							6.3742,
+							0.5973
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 165,
+							"length": 1
+						}
+					},
+					{
+						"content": "Hora",
+						"polygon": [
+							6.4453,
+							0.4868,
+							6.693,
+							0.487,
+							6.6928,
+							0.598,
+							6.4449,
+							0.5976
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 167,
+							"length": 4
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							6.7345,
+							0.4871,
+							6.8466,
+							0.4872,
+							6.8465,
+							0.5982,
+							6.7344,
+							0.5981
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 172,
+							"length": 2
+						}
+					},
+					{
+						"content": "Emissão",
+						"polygon": [
+							6.8882,
+							0.4874,
+							7.3059,
+							0.4876,
+							7.3056,
+							0.5976,
+							6.8881,
+							0.5983
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 175,
+							"length": 7
+						}
+					},
+					{
+						"content": "04/04/2024",
+						"polygon": [
+							6.0936,
+							0.624,
+							6.8123,
+							0.6235,
+							6.8122,
+							0.7528,
+							6.0933,
+							0.7528
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 183,
+							"length": 10
+						}
+					},
+					{
+						"content": "15:13:34",
+						"polygon": [
+							6.8673,
+							0.6238,
+							7.4398,
+							0.6229,
+							7.4398,
+							0.7528,
+							6.8671,
+							0.7528
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 194,
+							"length": 8
+						}
+					},
+					{
+						"content": "Código",
+						"polygon": [
+							6.1075,
+							0.7821,
+							6.4531,
+							0.7817,
+							6.4526,
+							0.8963,
+							6.1067,
+							0.8973
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 203,
+							"length": 6
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							6.4946,
+							0.782,
+							6.6079,
+							0.7824,
+							6.6076,
+							0.8974,
+							6.4942,
+							0.8966
+						],
+						"confidence": 0.999,
+						"span": {
+							"offset": 210,
+							"length": 2
+						}
+					},
+					{
+						"content": "Verificação",
+						"polygon": [
+							6.6457,
+							0.7825,
+							7.2116,
+							0.7833,
+							7.2116,
+							0.8999,
+							6.6454,
+							0.8974
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 213,
+							"length": 11
+						}
+					},
+					{
+						"content": "BX3J-DNME",
+						"polygon": [
+							6.3665,
+							0.9231,
+							7.1717,
+							0.9224,
+							7.1717,
+							1.0464,
+							6.3663,
+							1.0461
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 225,
+							"length": 9
+						}
+					},
+					{
+						"content": "PRESTADOR",
+						"polygon": [
+							3.1786,
+							1.1014,
+							4.0488,
+							1.0999,
+							4.0478,
+							1.2472,
+							3.178,
+							1.2441
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 235,
+							"length": 9
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							4.1042,
+							1.0996,
+							4.2826,
+							1.0995,
+							4.2815,
+							1.248,
+							4.1033,
+							1.2472
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 245,
+							"length": 2
+						}
+					},
+					{
+						"content": "SERVIÇOS",
+						"polygon": [
+							4.3308,
+							1.0995,
+							5.0436,
+							1.0993,
+							5.0436,
+							1.249,
+							4.3298,
+							1.2484
+						],
+						"confidence": 0.912,
+						"span": {
+							"offset": 248,
+							"length": 8
+						}
+					},
+					{
+						"content": "osbr",
+						"polygon": [
+							0.8559,
+							1.4635,
+							1.529,
+							1.4503,
+							1.529,
+							1.9193,
+							0.8565,
+							1.922
+						],
+						"confidence": 0.694,
+						"span": {
+							"offset": 257,
+							"length": 4
+						}
+					},
+					{
+						"content": "CPF/CNPJ:",
+						"polygon": [
+							1.6052,
+							1.2835,
+							2.1733,
+							1.2826,
+							2.173,
+							1.3973,
+							1.6049,
+							1.3973
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 262,
+							"length": 9
+						}
+					},
+					{
+						"content": "14.168.589/0001-46",
+						"polygon": [
+							2.2379,
+							1.2829,
+							3.2235,
+							1.2806,
+							3.2235,
+							1.3973,
+							2.2376,
+							1.3973
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 272,
+							"length": 18
+						}
+					},
+					{
+						"content": "Inscrição",
+						"polygon": [
+							4.7113,
+							1.2869,
+							5.1625,
+							1.2839,
+							5.1621,
+							1.4069,
+							4.7108,
+							1.4083
+						],
+						"confidence": 0.955,
+						"span": {
+							"offset": 291,
+							"length": 9
+						}
+					},
+					{
+						"content": "Municipal:",
+						"polygon": [
+							5.1999,
+							1.2839,
+							5.6827,
+							1.2822,
+							5.6816,
+							1.4023,
+							5.1995,
+							1.4064
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 301,
+							"length": 10
+						}
+					},
+					{
+						"content": "4.570,770-7",
+						"polygon": [
+							5.7359,
+							1.2822,
+							6.327,
+							1.2809,
+							6.3243,
+							1.3976,
+							5.7348,
+							1.4024
+						],
+						"confidence": 0.729,
+						"span": {
+							"offset": 312,
+							"length": 11
+						}
+					},
+					{
+						"content": "Nome/Razão",
+						"polygon": [
+							1.6025,
+							1.4325,
+							2.2259,
+							1.4301,
+							2.2257,
+							1.5563,
+							1.6024,
+							1.557
+						],
+						"confidence": 0.588,
+						"span": {
+							"offset": 324,
+							"length": 10
+						}
+					},
+					{
+						"content": "Social:",
+						"polygon": [
+							2.2633,
+							1.4299,
+							2.5854,
+							1.4296,
+							2.5847,
+							1.5558,
+							2.2631,
+							1.5562
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 335,
+							"length": 7
+						}
+					},
+					{
+						"content": "OPTIMUS",
+						"polygon": [
+							2.6332,
+							1.4295,
+							3.1154,
+							1.4285,
+							3.1146,
+							1.5543,
+							2.6324,
+							1.5557
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 343,
+							"length": 7
+						}
+					},
+					{
+						"content": "SYSTEM",
+						"polygon": [
+							3.1715,
+							1.4282,
+							3.6037,
+							1.4269,
+							3.6025,
+							1.5544,
+							3.1707,
+							1.5542
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 351,
+							"length": 6
+						}
+					},
+					{
+						"content": "CONSULTORIA",
+						"polygon": [
+							3.6578,
+							1.4269,
+							4.4558,
+							1.4268,
+							4.4548,
+							1.555,
+							3.6565,
+							1.5544
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 358,
+							"length": 11
+						}
+					},
+					{
+						"content": "EM",
+						"polygon": [
+							4.5036,
+							1.4266,
+							4.6553,
+							1.4261,
+							4.6544,
+							1.5549,
+							4.5027,
+							1.5549
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 370,
+							"length": 2
+						}
+					},
+					{
+						"content": "INFORMATICA",
+						"polygon": [
+							4.7031,
+							1.4261,
+							5.4491,
+							1.4283,
+							5.448,
+							1.5548,
+							4.7022,
+							1.5549
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 373,
+							"length": 11
+						}
+					},
+					{
+						"content": "E",
+						"polygon": [
+							5.4969,
+							1.4279,
+							5.5634,
+							1.4274,
+							5.5622,
+							1.5544,
+							5.4957,
+							1.5546
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 385,
+							"length": 1
+						}
+					},
+					{
+						"content": "SAUDE",
+						"polygon": [
+							5.6153,
+							1.427,
+							5.9873,
+							1.4275,
+							5.9854,
+							1.555,
+							5.6141,
+							1.5543
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 387,
+							"length": 5
+						}
+					},
+					{
+						"content": "LTDA",
+						"polygon": [
+							6.0413,
+							1.4275,
+							6.3444,
+							1.4272,
+							6.3444,
+							1.5529,
+							6.0394,
+							1.5548
+						],
+						"confidence": 0.962,
+						"span": {
+							"offset": 393,
+							"length": 4
+						}
+					},
+					{
+						"content": "Endereço:",
+						"polygon": [
+							1.6014,
+							1.5779,
+							2.1059,
+							1.5774,
+							2.1057,
+							1.7036,
+							1.6012,
+							1.7043
+						],
+						"confidence": 0.899,
+						"span": {
+							"offset": 398,
+							"length": 9
+						}
+					},
+					{
+						"content": "R",
+						"polygon": [
+							2.1594,
+							1.5773,
+							2.2356,
+							1.577,
+							2.2353,
+							1.703,
+							2.1592,
+							1.7034
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 408,
+							"length": 1
+						}
+					},
+					{
+						"content": "JOAQUIM",
+						"polygon": [
+							2.2727,
+							1.5767,
+							2.771,
+							1.5742,
+							2.7703,
+							1.7009,
+							2.2723,
+							1.7027
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 410,
+							"length": 7
+						}
+					},
+					{
+						"content": "ANTUNES",
+						"polygon": [
+							2.806,
+							1.5741,
+							3.3311,
+							1.573,
+							3.3301,
+							1.6993,
+							2.8054,
+							1.7008
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 418,
+							"length": 7
+						}
+					},
+					{
+						"content": "1034,",
+						"polygon": [
+							3.3764,
+							1.5731,
+							3.6359,
+							1.5731,
+							3.6348,
+							1.6982,
+							3.3754,
+							1.6994
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 426,
+							"length": 5
+						}
+					},
+					{
+						"content": "ANDAR",
+						"polygon": [
+							3.6791,
+							1.5731,
+							4.0683,
+							1.572,
+							4.0673,
+							1.6979,
+							3.678,
+							1.698
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 432,
+							"length": 5
+						}
+					},
+					{
+						"content": "6",
+						"polygon": [
+							4.1053,
+							1.572,
+							4.163,
+							1.5719,
+							4.162,
+							1.6979,
+							4.1044,
+							1.6979
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 438,
+							"length": 1
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							4.2083,
+							1.5719,
+							4.2495,
+							1.5719,
+							4.2484,
+							1.6978,
+							4.2072,
+							1.6978
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 440,
+							"length": 1
+						}
+					},
+					{
+						"content": "PINHEIROS",
+						"polygon": [
+							4.2824,
+							1.5718,
+							4.8755,
+							1.572,
+							4.8742,
+							1.6976,
+							4.2813,
+							1.6978
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 442,
+							"length": 9
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							4.9208,
+							1.5721,
+							4.964,
+							1.572,
+							4.9628,
+							1.6973,
+							4.9195,
+							1.6975
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 452,
+							"length": 1
+						}
+					},
+					{
+						"content": "CEP:",
+						"polygon": [
+							4.9949,
+							1.5719,
+							5.2502,
+							1.5714,
+							5.249,
+							1.696,
+							4.9937,
+							1.6971
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 454,
+							"length": 4
+						}
+					},
+					{
+						"content": "05415-001",
+						"polygon": [
+							5.2976,
+							1.5715,
+							5.8138,
+							1.5716,
+							5.8138,
+							1.6929,
+							5.2964,
+							1.696
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 459,
+							"length": 9
+						}
+					},
+					{
+						"content": "Município:",
+						"polygon": [
+							1.6008,
+							1.7336,
+							2.1346,
+							1.7316,
+							2.1343,
+							1.8506,
+							1.6007,
+							1.8518
+						],
+						"confidence": 0.813,
+						"span": {
+							"offset": 469,
+							"length": 10
+						}
+					},
+					{
+						"content": "São",
+						"polygon": [
+							2.1598,
+							1.7316,
+							2.3501,
+							1.7321,
+							2.3497,
+							1.8504,
+							2.1595,
+							1.8506
+						],
+						"confidence": 0.585,
+						"span": {
+							"offset": 480,
+							"length": 3
+						}
+					},
+					{
+						"content": "Paulo",
+						"polygon": [
+							2.3928,
+							1.7318,
+							2.6929,
+							1.7304,
+							2.6929,
+							1.8491,
+							2.3924,
+							1.8501
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 484,
+							"length": 5
+						}
+					},
+					{
+						"content": "UF:",
+						"polygon": [
+							4.7062,
+							1.7308,
+							4.8763,
+							1.7276,
+							4.8767,
+							1.8364,
+							4.7065,
+							1.8406
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 490,
+							"length": 3
+						}
+					},
+					{
+						"content": "SP",
+						"polygon": [
+							4.9153,
+							1.7272,
+							5.0676,
+							1.7232,
+							5.0684,
+							1.8309,
+							4.9158,
+							1.8347
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 494,
+							"length": 2
+						}
+					},
+					{
+						"content": "TOMADOR",
+						"polygon": [
+							3.2538,
+							2.0316,
+							3.9685,
+							2.0306,
+							3.9675,
+							2.1672,
+							3.2535,
+							2.1654
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 497,
+							"length": 7
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							4.0242,
+							2.0309,
+							4.2046,
+							2.0307,
+							4.2032,
+							2.1673,
+							4.0231,
+							2.1673
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 505,
+							"length": 2
+						}
+					},
+					{
+						"content": "SERVIÇOS",
+						"polygon": [
+							4.2513,
+							2.0304,
+							4.9637,
+							2.0305,
+							4.9625,
+							2.166,
+							4.25,
+							2.1673
+						],
+						"confidence": 0.605,
+						"span": {
+							"offset": 508,
+							"length": 8
+						}
+					},
+					{
+						"content": "Nome/Razão",
+						"polygon": [
+							0.8461,
+							2.2116,
+							1.473,
+							2.2088,
+							1.4725,
+							2.3377,
+							0.8457,
+							2.3365
+						],
+						"confidence": 0.721,
+						"span": {
+							"offset": 517,
+							"length": 10
+						}
+					},
+					{
+						"content": "Social:",
+						"polygon": [
+							1.5131,
+							2.2086,
+							1.8318,
+							2.2079,
+							1.8309,
+							2.3375,
+							1.5126,
+							2.3376
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 528,
+							"length": 7
+						}
+					},
+					{
+						"content": "SERVIÇO",
+						"polygon": [
+							1.8867,
+							2.2078,
+							2.3722,
+							2.2076,
+							2.3714,
+							2.3366,
+							1.8857,
+							2.3376
+						],
+						"confidence": 0.959,
+						"span": {
+							"offset": 536,
+							"length": 7
+						}
+					},
+					{
+						"content": "NACIONAL",
+						"polygon": [
+							2.425,
+							2.2076,
+							2.9843,
+							2.207,
+							2.9834,
+							2.3364,
+							2.424,
+							2.3367
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 544,
+							"length": 8
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							3.0371,
+							2.2071,
+							3.1828,
+							2.2071,
+							3.1818,
+							2.3363,
+							3.0362,
+							2.3364
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 553,
+							"length": 2
+						}
+					},
+					{
+						"content": "APRENDIZAGEM",
+						"polygon": [
+							3.2334,
+							2.207,
+							4.0967,
+							2.207,
+							4.0957,
+							2.3362,
+							3.2324,
+							2.3362
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 556,
+							"length": 12
+						}
+					},
+					{
+						"content": "INDUSTRIAL",
+						"polygon": [
+							4.1516,
+							2.2069,
+							4.8039,
+							2.2056,
+							4.8039,
+							2.3327,
+							4.1506,
+							2.3363
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 569,
+							"length": 10
+						}
+					},
+					{
+						"content": "CPF/CNPJ:",
+						"polygon": [
+							0.8499,
+							2.3572,
+							1.4203,
+							2.3562,
+							1.4201,
+							2.4753,
+							0.8496,
+							2.4753
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 580,
+							"length": 9
+						}
+					},
+					{
+						"content": "33.564.543/0001-90",
+						"polygon": [
+							1.4867,
+							2.3561,
+							2.4761,
+							2.3557,
+							2.4761,
+							2.4752,
+							1.4864,
+							2.4753
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 590,
+							"length": 18
+						}
+					},
+					{
+						"content": "Endereço:",
+						"polygon": [
+							0.8478,
+							2.51,
+							1.3528,
+							2.5089,
+							1.3529,
+							2.6365,
+							0.8476,
+							2.6363
+						],
+						"confidence": 0.877,
+						"span": {
+							"offset": 609,
+							"length": 9
+						}
+					},
+					{
+						"content": "CJ",
+						"polygon": [
+							1.4118,
+							2.5088,
+							1.5464,
+							2.5084,
+							1.5465,
+							2.6356,
+							1.4118,
+							2.6362
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 619,
+							"length": 2
+						}
+					},
+					{
+						"content": "SBN",
+						"polygon": [
+							1.5864,
+							2.5082,
+							1.8116,
+							2.5068,
+							1.8114,
+							2.6344,
+							1.5864,
+							2.6354
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 622,
+							"length": 3
+						}
+					},
+					{
+						"content": "Quadra",
+						"polygon": [
+							1.8515,
+							2.5066,
+							2.2366,
+							2.5062,
+							2.2359,
+							2.6341,
+							1.8513,
+							2.6342
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 626,
+							"length": 6
+						}
+					},
+					{
+						"content": "1",
+						"polygon": [
+							2.2724,
+							2.5063,
+							2.3124,
+							2.5063,
+							2.3116,
+							2.6343,
+							2.2717,
+							2.6342
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 633,
+							"length": 1
+						}
+					},
+					{
+						"content": "SN,",
+						"polygon": [
+							2.3713,
+							2.5064,
+							2.5459,
+							2.5065,
+							2.545,
+							2.6349,
+							2.3705,
+							2.6345
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 635,
+							"length": 3
+						}
+					},
+					{
+						"content": "ED.",
+						"polygon": [
+							2.5922,
+							2.5062,
+							2.7648,
+							2.5051,
+							2.7634,
+							2.6348,
+							2.5912,
+							2.6349
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 639,
+							"length": 3
+						}
+					},
+					{
+						"content": "ROBERTO",
+						"polygon": [
+							2.8111,
+							2.5048,
+							3.3561,
+							2.5053,
+							3.3544,
+							2.6345,
+							2.8096,
+							2.6347
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 643,
+							"length": 7
+						}
+					},
+					{
+						"content": "SIMONSEN",
+						"polygon": [
+							3.3981,
+							2.5053,
+							3.9705,
+							2.5025,
+							3.9689,
+							2.6322,
+							3.3965,
+							2.6345
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 651,
+							"length": 8
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							4.0084,
+							2.5028,
+							4.0504,
+							2.503,
+							4.0488,
+							2.6323,
+							4.0067,
+							2.6323
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 660,
+							"length": 1
+						}
+					},
+					{
+						"content": "Asa",
+						"polygon": [
+							4.0778,
+							2.5032,
+							4.2756,
+							2.5042,
+							4.274,
+							2.6325,
+							4.0762,
+							2.6323
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 662,
+							"length": 3
+						}
+					},
+					{
+						"content": "Norte",
+						"polygon": [
+							4.3177,
+							2.5043,
+							4.6038,
+							2.5048,
+							4.6024,
+							2.6328,
+							4.3161,
+							2.6326
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 666,
+							"length": 5
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							4.6417,
+							2.5046,
+							4.6838,
+							2.5045,
+							4.6824,
+							2.6323,
+							4.6403,
+							2.6325
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 672,
+							"length": 1
+						}
+					},
+					{
+						"content": "CEP:",
+						"polygon": [
+							4.7154,
+							2.5044,
+							4.97,
+							2.5035,
+							4.9686,
+							2.6315,
+							4.714,
+							2.6321
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 674,
+							"length": 4
+						}
+					},
+					{
+						"content": "70040-903",
+						"polygon": [
+							5.0079,
+							2.5034,
+							5.5399,
+							2.5013,
+							5.5399,
+							2.6291,
+							5.0065,
+							2.6316
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 679,
+							"length": 9
+						}
+					},
+					{
+						"content": "Município:",
+						"polygon": [
+							0.8456,
+							2.6642,
+							1.3518,
+							2.6648,
+							1.3512,
+							2.7811,
+							0.8454,
+							2.7815
+						],
+						"confidence": 0.939,
+						"span": {
+							"offset": 689,
+							"length": 10
+						}
+					},
+					{
+						"content": "Brasília",
+						"polygon": [
+							1.4129,
+							2.6649,
+							1.8083,
+							2.6648,
+							1.8079,
+							2.7818,
+							1.4123,
+							2.781
+						],
+						"confidence": 0.767,
+						"span": {
+							"offset": 700,
+							"length": 8
+						}
+					},
+					{
+						"content": "UF:",
+						"polygon": [
+							3.5277,
+							2.6664,
+							3.697,
+							2.6656,
+							3.6967,
+							2.7688,
+							3.5276,
+							2.7676
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 709,
+							"length": 3
+						}
+					},
+					{
+						"content": "DF",
+						"polygon": [
+							3.7363,
+							2.6656,
+							3.8854,
+							2.6631,
+							3.8854,
+							2.7701,
+							3.736,
+							2.7692
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 713,
+							"length": 2
+						}
+					},
+					{
+						"content": "E-mail:",
+						"polygon": [
+							4.1148,
+							2.6644,
+							4.4562,
+							2.6659,
+							4.4561,
+							2.7838,
+							4.115,
+							2.7823
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 716,
+							"length": 7
+						}
+					},
+					{
+						"content": "recebimento@cni.org.br",
+						"polygon": [
+							4.5214,
+							2.6662,
+							5.8024,
+							2.6632,
+							5.8022,
+							2.788,
+							4.5212,
+							2.7839
+						],
+						"confidence": 0.913,
+						"span": {
+							"offset": 724,
+							"length": 22
+						}
+					},
+					{
+						"content": "INTERMEDIARIO",
+						"polygon": [
+							3.0672,
+							2.8459,
+							4.1806,
+							2.8468,
+							4.1794,
+							2.986,
+							3.0669,
+							2.9832
+						],
+						"confidence": 0.576,
+						"span": {
+							"offset": 747,
+							"length": 13
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							4.2102,
+							2.8467,
+							4.39,
+							2.8478,
+							4.3882,
+							2.988,
+							4.209,
+							2.9863
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 761,
+							"length": 2
+						}
+					},
+					{
+						"content": "SERVIÇOS",
+						"polygon": [
+							4.4378,
+							2.8477,
+							5.1463,
+							2.8524,
+							5.1463,
+							2.9925,
+							4.436,
+							2.9881
+						],
+						"confidence": 0.883,
+						"span": {
+							"offset": 764,
+							"length": 8
+						}
+					},
+					{
+						"content": "CPF/CNPJ:",
+						"polygon": [
+							0.8516,
+							3.034,
+							1.4206,
+							3.0394,
+							1.4197,
+							3.1456,
+							0.8513,
+							3.1425
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 773,
+							"length": 9
+						}
+					},
+					{
+						"content": "----",
+						"polygon": [
+							1.4919,
+							3.0404,
+							1.6659,
+							3.0401,
+							1.6653,
+							3.1441,
+							1.491,
+							3.1455
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 783,
+							"length": 4
+						}
+					},
+					{
+						"content": "Nome/Razão",
+						"polygon": [
+							2.6193,
+							3.0383,
+							3.2442,
+							3.038,
+							3.2437,
+							3.1419,
+							2.6188,
+							3.1424
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 788,
+							"length": 10
+						}
+					},
+					{
+						"content": "Social:",
+						"polygon": [
+							3.2835,
+							3.0383,
+							3.6163,
+							3.0339,
+							3.6158,
+							3.1383,
+							3.2831,
+							3.142
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 799,
+							"length": 7
+						}
+					},
+					{
+						"content": "DISCRIMINAÇÃO",
+						"polygon": [
+							3.015,
+							3.2185,
+							4.1154,
+							3.2206,
+							4.1145,
+							3.3578,
+							3.0151,
+							3.353
+						],
+						"confidence": 0.576,
+						"span": {
+							"offset": 807,
+							"length": 13
+						}
+					},
+					{
+						"content": "DOS",
+						"polygon": [
+							4.1695,
+							3.2204,
+							4.4468,
+							3.2205,
+							4.4453,
+							3.3593,
+							4.1683,
+							3.3577
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 821,
+							"length": 3
+						}
+					},
+					{
+						"content": "SERVIÇOS",
+						"polygon": [
+							4.5032,
+							3.2199,
+							5.2147,
+							3.2173,
+							5.2147,
+							3.3574,
+							4.5014,
+							3.3593
+						],
+						"confidence": 0.808,
+						"span": {
+							"offset": 825,
+							"length": 8
+						}
+					},
+					{
+						"content": "Ass.",
+						"polygon": [
+							0.8108,
+							3.3701,
+							1.0733,
+							3.3699,
+							1.0732,
+							3.4851,
+							0.8105,
+							3.4835
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 834,
+							"length": 4
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							1.1664,
+							3.3698,
+							1.2273,
+							3.3697,
+							1.2273,
+							3.486,
+							1.1664,
+							3.4856
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 839,
+							"length": 1
+						}
+					},
+					{
+						"content": "cons.",
+						"polygon": [
+							1.3034,
+							3.3693,
+							1.6267,
+							3.3672,
+							1.6267,
+							3.4862,
+							1.3034,
+							3.4861
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 841,
+							"length": 5
+						}
+					},
+					{
+						"content": "informática,",
+						"polygon": [
+							1.7256,
+							3.3669,
+							2.511,
+							3.3679,
+							2.5108,
+							3.4874,
+							1.7255,
+							3.4862
+						],
+						"confidence": 0.608,
+						"span": {
+							"offset": 847,
+							"length": 12
+						}
+					},
+					{
+						"content": "prest.",
+						"polygon": [
+							2.6042,
+							3.3681,
+							2.9998,
+							3.3693,
+							2.9997,
+							3.487,
+							2.604,
+							3.4875
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 860,
+							"length": 6
+						}
+					},
+					{
+						"content": "serv.",
+						"polygon": [
+							3.0892,
+							3.3692,
+							3.4125,
+							3.3689,
+							3.4124,
+							3.484,
+							3.089,
+							3.4863
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 867,
+							"length": 5
+						}
+					},
+					{
+						"content": "inf.",
+						"polygon": [
+							3.5038,
+							3.3687,
+							3.7872,
+							3.368,
+							3.7869,
+							3.4841,
+							3.5036,
+							3.4839
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 873,
+							"length": 4
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							3.8613,
+							3.3679,
+							3.8842,
+							3.3678,
+							3.8838,
+							3.4841,
+							3.861,
+							3.4841
+						],
+						"confidence": 0.89,
+						"span": {
+							"offset": 878,
+							"length": 1
+						}
+					},
+					{
+						"content": "Serviços",
+						"polygon": [
+							3.9165,
+							3.3678,
+							4.4433,
+							3.3689,
+							4.4427,
+							3.4833,
+							3.9161,
+							3.4841
+						],
+						"confidence": 0.636,
+						"span": {
+							"offset": 880,
+							"length": 8
+						}
+					},
+					{
+						"content": "especializados",
+						"polygon": [
+							4.5004,
+							3.369,
+							5.4779,
+							3.3699,
+							5.4766,
+							3.485,
+							4.4997,
+							3.4834
+						],
+						"confidence": 0.646,
+						"span": {
+							"offset": 889,
+							"length": 14
+						}
+					},
+					{
+						"content": "em",
+						"polygon": [
+							5.554,
+							3.3705,
+							5.689,
+							3.3706,
+							5.6877,
+							3.4855,
+							5.5526,
+							3.4855
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 904,
+							"length": 2
+						}
+					},
+					{
+						"content": "TT",
+						"polygon": [
+							5.7594,
+							3.3702,
+							5.8982,
+							3.3694,
+							5.8973,
+							3.4842,
+							5.7582,
+							3.4851
+						],
+						"confidence": 0.775,
+						"span": {
+							"offset": 907,
+							"length": 2
+						}
+					},
+					{
+						"content": "para",
+						"polygon": [
+							5.9534,
+							3.3691,
+							6.2348,
+							3.3687,
+							6.2342,
+							3.4827,
+							5.9526,
+							3.4839
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 910,
+							"length": 4
+						}
+					},
+					{
+						"content": "o",
+						"polygon": [
+							6.3128,
+							3.3688,
+							6.3737,
+							3.3688,
+							6.3731,
+							3.4822,
+							6.3122,
+							3.4824
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 915,
+							"length": 1
+						}
+					},
+					{
+						"content": "SESI-DN",
+						"polygon": [
+							6.4554,
+							3.369,
+							6.9423,
+							3.363,
+							6.942,
+							3.4796,
+							6.4549,
+							3.482
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 917,
+							"length": 7
+						}
+					},
+					{
+						"content": "SOLICITAÇÃO",
+						"polygon": [
+							0.8186,
+							3.6004,
+							1.5811,
+							3.5984,
+							1.5806,
+							3.7129,
+							0.8183,
+							3.7129
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 925,
+							"length": 11
+						}
+					},
+					{
+						"content": "DE",
+						"polygon": [
+							1.6448,
+							3.5984,
+							1.7797,
+							3.5987,
+							1.7792,
+							3.7129,
+							1.6444,
+							3.7129
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 937,
+							"length": 2
+						}
+					},
+					{
+						"content": "COMPRA:",
+						"polygon": [
+							1.8509,
+							3.5991,
+							2.3061,
+							3.598,
+							2.3055,
+							3.7127,
+							1.8502,
+							3.7129
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 940,
+							"length": 7
+						}
+					},
+					{
+						"content": "025400",
+						"polygon": [
+							2.3361,
+							3.598,
+							2.7443,
+							3.598,
+							2.7441,
+							3.7108,
+							2.3354,
+							3.7126
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 948,
+							"length": 6
+						}
+					},
+					{
+						"content": "Centro",
+						"polygon": [
+							0.8151,
+							3.7295,
+							1.2253,
+							3.7277,
+							1.2264,
+							3.8321,
+							0.8164,
+							3.8354
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 955,
+							"length": 6
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							1.3032,
+							3.7271,
+							1.4313,
+							3.7261,
+							1.432,
+							3.8319,
+							1.3042,
+							3.832
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 962,
+							"length": 2
+						}
+					},
+					{
+						"content": "Custo:",
+						"polygon": [
+							1.5109,
+							3.7259,
+							1.8934,
+							3.7245,
+							1.8945,
+							3.8284,
+							1.5117,
+							3.8315
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 965,
+							"length": 6
+						}
+					},
+					{
+						"content": "CNI/SESI/SENAI",
+						"polygon": [
+							1.992,
+							3.7238,
+							2.9439,
+							3.7212,
+							2.9444,
+							3.8263,
+							1.9931,
+							3.8276
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 972,
+							"length": 14
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							3.0876,
+							3.7194,
+							3.1429,
+							3.7199,
+							3.1435,
+							3.8263,
+							3.0881,
+							3.8254
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 987,
+							"length": 1
+						}
+					},
+					{
+						"content": "DN",
+						"polygon": [
+							3.2243,
+							3.7206,
+							3.3558,
+							3.7218,
+							3.3568,
+							3.8297,
+							3.225,
+							3.8276
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 989,
+							"length": 2
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							3.3974,
+							3.721,
+							3.5081,
+							3.7187,
+							3.5089,
+							3.8278,
+							3.3982,
+							3.8292
+						],
+						"confidence": 0.627,
+						"span": {
+							"offset": 992,
+							"length": 1
+						}
+					},
+					{
+						"content": "401000",
+						"polygon": [
+							3.5756,
+							3.7173,
+							3.9632,
+							3.7195,
+							3.9637,
+							3.8234,
+							3.5763,
+							3.8269
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 994,
+							"length": 6
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							4.0463,
+							3.7206,
+							4.1017,
+							3.721,
+							4.1021,
+							3.8232,
+							4.0468,
+							3.8229
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1001,
+							"length": 1
+						}
+					},
+					{
+						"content": "Analytics",
+						"polygon": [
+							4.1778,
+							3.7205,
+							4.8251,
+							3.7208,
+							4.8257,
+							3.8262,
+							4.1783,
+							3.8248
+						],
+						"confidence": 0.806,
+						"span": {
+							"offset": 1003,
+							"length": 9
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							4.8684,
+							3.7202,
+							4.9237,
+							3.7194,
+							4.9241,
+							3.8237,
+							4.8688,
+							3.8251
+						],
+						"confidence": 0.896,
+						"span": {
+							"offset": 1013,
+							"length": 1
+						}
+					},
+					{
+						"content": "Engenharia",
+						"polygon": [
+							5.0085,
+							3.7182,
+							5.6991,
+							3.7168,
+							5.7002,
+							3.8187,
+							5.0087,
+							3.8216
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1015,
+							"length": 10
+						}
+					},
+					{
+						"content": "ob",
+						"polygon": [
+							5.758,
+							3.7167,
+							5.8937,
+							3.7164,
+							5.8937,
+							3.8179,
+							5.7591,
+							3.8185
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 1026,
+							"length": 2
+						}
+					},
+					{
+						"content": "observatório",
+						"polygon": [
+							5.7599,
+							3.7159,
+							6.5804,
+							3.7165,
+							6.5802,
+							3.8314,
+							5.7592,
+							3.8303
+						],
+						"confidence": 0.605,
+						"span": {
+							"offset": 1029,
+							"length": 12
+						}
+					},
+					{
+						"content": "Nacional",
+						"polygon": [
+							6.6555,
+							3.7161,
+							7.2059,
+							3.7152,
+							7.2059,
+							3.8327,
+							6.6553,
+							3.8317
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1042,
+							"length": 8
+						}
+					},
+					{
+						"content": "VENCIMENTO:",
+						"polygon": [
+							0.8118,
+							3.9598,
+							1.5537,
+							3.9583,
+							1.5528,
+							4.0694,
+							0.8115,
+							4.0687
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1051,
+							"length": 11
+						}
+					},
+					{
+						"content": "22/04/2024",
+						"polygon": [
+							1.6446,
+							3.9586,
+							2.3392,
+							3.9562,
+							2.3388,
+							4.0692,
+							1.6434,
+							4.0697
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1063,
+							"length": 10
+						}
+					},
+					{
+						"content": "VALOR",
+						"polygon": [
+							0.8151,
+							4.2009,
+							1.1641,
+							4.1998,
+							1.1638,
+							4.3118,
+							0.8152,
+							4.3107
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1074,
+							"length": 5
+						}
+					},
+					{
+						"content": "BRUTO:",
+						"polygon": [
+							1.2331,
+							4.1994,
+							1.6212,
+							4.1979,
+							1.621,
+							4.3118,
+							1.2329,
+							4.3115
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1080,
+							"length": 6
+						}
+					},
+					{
+						"content": "R$",
+						"polygon": [
+							1.7855,
+							4.1983,
+							1.9049,
+							4.1988,
+							1.9046,
+							4.3118,
+							1.7852,
+							4.3118
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1087,
+							"length": 2
+						}
+					},
+					{
+						"content": "10.250,00",
+						"polygon": [
+							1.9982,
+							4.1989,
+							2.6065,
+							4.1947,
+							2.6064,
+							4.3118,
+							1.9979,
+							4.3118
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1090,
+							"length": 9
+						}
+					},
+					{
+						"content": "RETENÇÕES",
+						"polygon": [
+							0.8171,
+							4.4385,
+							1.4261,
+							4.4396,
+							1.4256,
+							4.5498,
+							0.8168,
+							4.5471
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1100,
+							"length": 9
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							1.4566,
+							4.4395,
+							1.4948,
+							4.4392,
+							1.4948,
+							4.5508,
+							1.4562,
+							4.5501
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 1110,
+							"length": 1
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							0.9589,
+							4.5628,
+							1.0148,
+							4.562,
+							1.0154,
+							4.6593,
+							0.9594,
+							4.659
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1112,
+							"length": 1
+						}
+					},
+					{
+						"content": "1,5%",
+						"polygon": [
+							1.1037,
+							4.561,
+							1.3572,
+							4.5585,
+							1.3574,
+							4.6587,
+							1.1042,
+							4.6593
+						],
+						"confidence": 0.945,
+						"span": {
+							"offset": 1114,
+							"length": 4
+						}
+					},
+					{
+						"content": "I.R.",
+						"polygon": [
+							1.446,
+							4.5582,
+							1.6945,
+							4.5586,
+							1.6946,
+							4.6597,
+							1.4461,
+							4.6596
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1119,
+							"length": 4
+						}
+					},
+					{
+						"content": "Fonte:",
+						"polygon": [
+							1.7851,
+							4.5588,
+							2.1795,
+							4.5586,
+							2.1795,
+							4.6586,
+							1.7851,
+							4.6597
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1124,
+							"length": 6
+						}
+					},
+					{
+						"content": "R$",
+						"polygon": [
+							2.6698,
+							4.5633,
+							2.8185,
+							4.558,
+							2.8185,
+							4.6513,
+							2.67,
+							4.656
+						],
+						"confidence": 0.643,
+						"span": {
+							"offset": 1131,
+							"length": 2
+						}
+					},
+					{
+						"content": "153,",
+						"polygon": [
+							3.0095,
+							4.5476,
+							3.2631,
+							4.5502,
+							3.2631,
+							4.6648,
+							3.0094,
+							4.6622
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 1134,
+							"length": 4
+						}
+					},
+					{
+						"content": "75,",
+						"polygon": [
+							3.3022,
+							4.5504,
+							3.485,
+							4.5514,
+							3.4848,
+							4.6634,
+							3.3022,
+							4.6645
+						],
+						"confidence": 0.885,
+						"span": {
+							"offset": 1139,
+							"length": 3
+						}
+					},
+					{
+						"content": "conforme",
+						"polygon": [
+							3.5614,
+							4.5516,
+							4.1041,
+							4.5512,
+							4.1035,
+							4.665,
+							3.5611,
+							4.6639
+						],
+						"confidence": 0.87,
+						"span": {
+							"offset": 1143,
+							"length": 8
+						}
+					},
+					{
+						"content": "art.",
+						"polygon": [
+							4.1731,
+							4.5506,
+							4.4378,
+							4.5505,
+							4.4377,
+							4.6647,
+							4.1726,
+							4.6646
+						],
+						"confidence": 0.957,
+						"span": {
+							"offset": 1152,
+							"length": 4
+						}
+					},
+					{
+						"content": "647,",
+						"polygon": [
+							4.5348,
+							4.5508,
+							4.7754,
+							4.5502,
+							4.7753,
+							4.6641,
+							4.5347,
+							4.6649
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1157,
+							"length": 4
+						}
+					},
+					{
+						"content": "itens",
+						"polygon": [
+							4.8742,
+							4.5501,
+							5.2024,
+							4.5498,
+							5.202,
+							4.6632,
+							4.8741,
+							4.6635
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 1162,
+							"length": 5
+						}
+					},
+					{
+						"content": "12",
+						"polygon": [
+							5.2863,
+							4.5496,
+							5.4094,
+							4.549,
+							5.409,
+							4.6634,
+							5.2859,
+							4.6633
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1168,
+							"length": 2
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							5.4858,
+							4.5487,
+							5.5492,
+							4.5486,
+							5.5489,
+							4.6631,
+							5.4855,
+							4.6634
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1171,
+							"length": 1
+						}
+					},
+					{
+						"content": "18",
+						"polygon": [
+							5.6331,
+							4.5487,
+							5.7488,
+							4.5487,
+							5.7484,
+							4.662,
+							5.6328,
+							4.6626
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1173,
+							"length": 2
+						}
+					},
+					{
+						"content": "do",
+						"polygon": [
+							5.8327,
+							4.5485,
+							5.9613,
+							4.5482,
+							5.9613,
+							4.6611,
+							5.8324,
+							4.6616
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1176,
+							"length": 2
+						}
+					},
+					{
+						"content": "RIR/99.",
+						"polygon": [
+							6.0397,
+							4.5483,
+							6.5077,
+							4.547,
+							6.5081,
+							4.6631,
+							6.0397,
+							4.661
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1179,
+							"length": 7
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							0.9588,
+							4.6786,
+							1.0136,
+							4.678,
+							1.0139,
+							4.7711,
+							0.959,
+							4.7713
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1187,
+							"length": 1
+						}
+					},
+					{
+						"content": "4,65%",
+						"polygon": [
+							1.1039,
+							4.6771,
+							1.4262,
+							4.6764,
+							1.4268,
+							4.775,
+							1.1042,
+							4.7712
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1189,
+							"length": 5
+						}
+					},
+					{
+						"content": "PIS/COFINS/CSLL:",
+						"polygon": [
+							1.5196,
+							4.6764,
+							2.5783,
+							4.6741,
+							2.5787,
+							4.7744,
+							1.5202,
+							4.7758
+						],
+						"confidence": 0.958,
+						"span": {
+							"offset": 1195,
+							"length": 16
+						}
+					},
+					{
+						"content": "PS",
+						"polygon": [
+							2.6654,
+							4.6754,
+							2.8128,
+							4.681,
+							2.8128,
+							4.777,
+							2.666,
+							4.7741
+						],
+						"confidence": 0.508,
+						"span": {
+							"offset": 1212,
+							"length": 2
+						}
+					},
+					{
+						"content": "476,",
+						"polygon": [
+							3.0198,
+							4.6716,
+							3.2623,
+							4.6709,
+							3.2626,
+							4.7845,
+							3.02,
+							4.7826
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 1215,
+							"length": 4
+						}
+					},
+					{
+						"content": "63,",
+						"polygon": [
+							3.3043,
+							4.6709,
+							3.4848,
+							4.6737,
+							3.485,
+							4.7837,
+							3.3045,
+							4.7844
+						],
+						"confidence": 0.9,
+						"span": {
+							"offset": 1220,
+							"length": 3
+						}
+					},
+					{
+						"content": "conforme",
+						"polygon": [
+							3.5595,
+							4.6738,
+							4.0973,
+							4.6714,
+							4.0978,
+							4.7809,
+							3.5598,
+							4.7833
+						],
+						"confidence": 0.871,
+						"span": {
+							"offset": 1224,
+							"length": 8
+						}
+					},
+					{
+						"content": "Lei",
+						"polygon": [
+							4.1721,
+							4.6711,
+							4.3818,
+							4.6697,
+							4.3823,
+							4.7804,
+							4.1726,
+							4.7804
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1233,
+							"length": 3
+						}
+					},
+					{
+						"content": "10.833/03.",
+						"polygon": [
+							4.4693,
+							4.6691,
+							5.1275,
+							4.6686,
+							5.1283,
+							4.7792,
+							4.4697,
+							4.781
+						],
+						"confidence": 0.766,
+						"span": {
+							"offset": 1237,
+							"length": 10
+						}
+					},
+					{
+						"content": "Conforme",
+						"polygon": [
+							0.822,
+							4.7898,
+							1.3641,
+							4.789,
+							1.3642,
+							4.9044,
+							0.8218,
+							4.902
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1248,
+							"length": 8
+						}
+					},
+					{
+						"content": "Lei",
+						"polygon": [
+							1.4391,
+							4.7891,
+							1.6379,
+							4.7894,
+							1.6381,
+							4.9036,
+							1.4392,
+							4.9042
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1257,
+							"length": 3
+						}
+					},
+					{
+						"content": "12.741/2012,",
+						"polygon": [
+							1.7242,
+							4.7892,
+							2.512,
+							4.7877,
+							2.5116,
+							4.9036,
+							1.7243,
+							4.9036
+						],
+						"confidence": 0.948,
+						"span": {
+							"offset": 1261,
+							"length": 12
+						}
+					},
+					{
+						"content": "os",
+						"polygon": [
+							2.5701,
+							4.7879,
+							2.7314,
+							4.7889,
+							2.7312,
+							4.904,
+							2.5698,
+							4.9035
+						],
+						"confidence": 0.646,
+						"span": {
+							"offset": 1274,
+							"length": 2
+						}
+					},
+					{
+						"content": "tributos",
+						"polygon": [
+							2.8102,
+							4.7895,
+							3.3448,
+							4.7899,
+							3.3441,
+							4.9049,
+							2.81,
+							4.9043
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1277,
+							"length": 8
+						}
+					},
+					{
+						"content": "federais",
+						"polygon": [
+							3.4367,
+							4.7897,
+							3.9637,
+							4.7894,
+							3.9635,
+							4.9032,
+							3.4359,
+							4.9049
+						],
+						"confidence": 0.918,
+						"span": {
+							"offset": 1286,
+							"length": 8
+						}
+					},
+					{
+						"content": "incidentes",
+						"polygon": [
+							4.0556,
+							4.7901,
+							4.7234,
+							4.7926,
+							4.7233,
+							4.9049,
+							4.0555,
+							4.9034
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1295,
+							"length": 10
+						}
+					},
+					{
+						"content": "são",
+						"polygon": [
+							4.7515,
+							4.7927,
+							5.0028,
+							4.7923,
+							5.0026,
+							4.9048,
+							4.7515,
+							4.9049
+						],
+						"confidence": 0.738,
+						"span": {
+							"offset": 1306,
+							"length": 3
+						}
+					},
+					{
+						"content": "aproximadamente",
+						"polygon": [
+							5.0741,
+							4.7922,
+							6.1001,
+							4.7906,
+							6.0997,
+							4.9049,
+							5.0739,
+							4.9047
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1310,
+							"length": 15
+						}
+					},
+					{
+						"content": "17,25%",
+						"polygon": [
+							6.1808,
+							4.7904,
+							6.5728,
+							4.7902,
+							6.5724,
+							4.9049,
+							6.1804,
+							4.9049
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 1326,
+							"length": 6
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							6.6534,
+							4.7905,
+							6.7153,
+							4.7907,
+							6.7149,
+							4.9049,
+							6.6531,
+							4.9049
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1333,
+							"length": 1
+						}
+					},
+					{
+						"content": "os",
+						"polygon": [
+							6.7922,
+							4.791,
+							6.9321,
+							4.7915,
+							6.9321,
+							4.9048,
+							6.7918,
+							4.9049
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1335,
+							"length": 2
+						}
+					},
+					{
+						"content": "municipais",
+						"polygon": [
+							0.8128,
+							4.91,
+							1.4942,
+							4.9104,
+							1.4942,
+							5.0277,
+							0.8128,
+							5.0272
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1338,
+							"length": 10
+						}
+					},
+					{
+						"content": "corresponde",
+						"polygon": [
+							1.5763,
+							4.9106,
+							2.3264,
+							4.9103,
+							2.326,
+							5.0281,
+							1.5763,
+							5.0271
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1349,
+							"length": 11
+						}
+					},
+					{
+						"content": "ao",
+						"polygon": [
+							2.4047,
+							4.9106,
+							2.5211,
+							4.911,
+							2.5209,
+							5.0273,
+							2.4044,
+							5.0278
+						],
+						"confidence": 0.655,
+						"span": {
+							"offset": 1361,
+							"length": 2
+						}
+					},
+					{
+						"content": "ISS",
+						"polygon": [
+							2.607,
+							4.9111,
+							2.796,
+							4.9107,
+							2.7956,
+							5.0272,
+							2.6069,
+							5.0271
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1364,
+							"length": 3
+						}
+					},
+					{
+						"content": "demonstrado",
+						"polygon": [
+							2.8838,
+							4.9105,
+							3.6206,
+							4.91,
+							3.62,
+							5.0255,
+							2.8834,
+							5.0272
+						],
+						"confidence": 0.961,
+						"span": {
+							"offset": 1368,
+							"length": 11
+						}
+					},
+					{
+						"content": "nesta",
+						"polygon": [
+							3.6912,
+							4.9102,
+							4.0443,
+							4.909,
+							4.0436,
+							5.0244,
+							3.6905,
+							5.0249
+						],
+						"confidence": 0.653,
+						"span": {
+							"offset": 1380,
+							"length": 5
+						}
+					},
+					{
+						"content": "nota",
+						"polygon": [
+							4.1168,
+							4.9092,
+							4.3821,
+							4.9095,
+							4.3819,
+							5.023,
+							4.1162,
+							5.0241
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1386,
+							"length": 4
+						}
+					},
+					{
+						"content": "fiscal.",
+						"polygon": [
+							4.4699,
+							4.9092,
+							4.9238,
+							4.909,
+							4.9238,
+							5.024,
+							4.4698,
+							5.023
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1391,
+							"length": 7
+						}
+					},
+					{
+						"content": "VALOR",
+						"polygon": [
+							0.8149,
+							5.1419,
+							1.1642,
+							5.1415,
+							1.1642,
+							5.2673,
+							0.8149,
+							5.2639
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1399,
+							"length": 5
+						}
+					},
+					{
+						"content": "LÍQUIDO",
+						"polygon": [
+							1.2324,
+							5.1414,
+							1.7122,
+							5.1424,
+							1.7118,
+							5.2673,
+							1.2325,
+							5.2673
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 1405,
+							"length": 7
+						}
+					},
+					{
+						"content": "A",
+						"polygon": [
+							1.7784,
+							5.1424,
+							1.8527,
+							5.1424,
+							1.8523,
+							5.268,
+							1.778,
+							5.2677
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1413,
+							"length": 1
+						}
+					},
+					{
+						"content": "SER",
+						"polygon": [
+							1.9249,
+							5.1425,
+							2.1257,
+							5.1431,
+							2.1251,
+							5.2664,
+							1.9245,
+							5.2679
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1415,
+							"length": 3
+						}
+					},
+					{
+						"content": "DEPOSITADO:",
+						"polygon": [
+							2.1979,
+							5.1433,
+							2.9265,
+							5.1425,
+							2.9259,
+							5.2646,
+							2.1973,
+							5.2658
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 1419,
+							"length": 11
+						}
+					},
+					{
+						"content": "R$",
+						"polygon": [
+							3.0169,
+							5.1421,
+							3.1574,
+							5.1416,
+							3.1564,
+							5.2624,
+							3.0161,
+							5.2638
+						],
+						"confidence": 0.88,
+						"span": {
+							"offset": 1431,
+							"length": 2
+						}
+					},
+					{
+						"content": "9.619,",
+						"polygon": [
+							3.2156,
+							5.1416,
+							3.617,
+							5.1455,
+							3.616,
+							5.2625,
+							3.2146,
+							5.2628
+						],
+						"confidence": 0.853,
+						"span": {
+							"offset": 1434,
+							"length": 6
+						}
+					},
+					{
+						"content": "63",
+						"polygon": [
+							3.6411,
+							5.1454,
+							3.7827,
+							5.1452,
+							3.7827,
+							5.262,
+							3.6402,
+							5.2624
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1441,
+							"length": 2
+						}
+					},
+					{
+						"content": "FAVOR",
+						"polygon": [
+							0.8188,
+							5.3863,
+							1.1648,
+							5.3871,
+							1.1648,
+							5.501,
+							0.8186,
+							5.4997
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1444,
+							"length": 5
+						}
+					},
+					{
+						"content": "DEPOSITAR",
+						"polygon": [
+							1.2325,
+							5.3872,
+							1.853,
+							5.3877,
+							1.8525,
+							5.5031,
+							1.2325,
+							5.5011
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1450,
+							"length": 9
+						}
+					},
+					{
+						"content": "O",
+						"polygon": [
+							1.9188,
+							5.3879,
+							1.9865,
+							5.3881,
+							1.986,
+							5.503,
+							1.9183,
+							5.5031
+						],
+						"confidence": 0.749,
+						"span": {
+							"offset": 1460,
+							"length": 1
+						}
+					},
+					{
+						"content": "VALOR",
+						"polygon": [
+							2.0505,
+							5.3883,
+							2.3965,
+							5.3879,
+							2.396,
+							5.5022,
+							2.05,
+							5.5028
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1462,
+							"length": 5
+						}
+					},
+					{
+						"content": "LÍQUIDO",
+						"polygon": [
+							2.4717,
+							5.3875,
+							2.9512,
+							5.3851,
+							2.9501,
+							5.5021,
+							2.4711,
+							5.5021
+						],
+						"confidence": 0.831,
+						"span": {
+							"offset": 1468,
+							"length": 7
+						}
+					},
+					{
+						"content": "EM",
+						"polygon": [
+							3.017,
+							5.3848,
+							3.1336,
+							5.3845,
+							3.1322,
+							5.501,
+							3.0157,
+							5.5016
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 1476,
+							"length": 2
+						}
+					},
+					{
+						"content": "CONTA",
+						"polygon": [
+							3.2107,
+							5.3848,
+							3.5473,
+							5.3849,
+							3.5462,
+							5.4998,
+							3.2094,
+							5.5008
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1479,
+							"length": 5
+						}
+					},
+					{
+						"content": "ATÉ",
+						"polygon": [
+							3.6244,
+							5.3847,
+							3.8369,
+							5.3846,
+							3.8357,
+							5.4998,
+							3.6234,
+							5.4995
+						],
+						"confidence": 0.841,
+						"span": {
+							"offset": 1485,
+							"length": 3
+						}
+					},
+					{
+						"content": "O",
+						"polygon": [
+							3.9102,
+							5.3846,
+							3.9779,
+							5.3847,
+							3.9766,
+							5.5001,
+							3.9089,
+							5.5
+						],
+						"confidence": 0.839,
+						"span": {
+							"offset": 1489,
+							"length": 1
+						}
+					},
+					{
+						"content": "VENCIMENTO:",
+						"polygon": [
+							4.0418,
+							5.3848,
+							4.7902,
+							5.3858,
+							4.79,
+							5.4986,
+							4.0406,
+							5.5002
+						],
+						"confidence": 0.694,
+						"span": {
+							"offset": 1491,
+							"length": 11
+						}
+					},
+					{
+						"content": "Optimus",
+						"polygon": [
+							1.0201,
+							5.5056,
+							1.4925,
+							5.5047,
+							1.4926,
+							5.6149,
+							1.0201,
+							5.6151
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1503,
+							"length": 7
+						}
+					},
+					{
+						"content": "System",
+						"polygon": [
+							1.5837,
+							5.5045,
+							1.9795,
+							5.5063,
+							1.9792,
+							5.6161,
+							1.5837,
+							5.6149
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1511,
+							"length": 6
+						}
+					},
+					{
+						"content": "Consultoria",
+						"polygon": [
+							2.0141,
+							5.5064,
+							2.8057,
+							5.5047,
+							2.8049,
+							5.6171,
+							2.0138,
+							5.6159
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 1518,
+							"length": 11
+						}
+					},
+					{
+						"content": "em",
+						"polygon": [
+							2.8841,
+							5.5043,
+							3.0118,
+							5.5041,
+							3.0106,
+							5.6176,
+							2.8832,
+							5.617
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 1530,
+							"length": 2
+						}
+					},
+					{
+						"content": "informática",
+						"polygon": [
+							3.0957,
+							5.5039,
+							3.838,
+							5.5033,
+							3.8372,
+							5.616,
+							3.0944,
+							5.6178
+						],
+						"confidence": 0.808,
+						"span": {
+							"offset": 1533,
+							"length": 11
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							3.911,
+							5.5027,
+							3.9711,
+							5.5022,
+							3.9702,
+							5.6151,
+							3.9101,
+							5.6155
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1545,
+							"length": 1
+						}
+					},
+					{
+						"content": "saúde",
+						"polygon": [
+							4.0477,
+							5.5027,
+							4.3815,
+							5.5043,
+							4.381,
+							5.6137,
+							4.0469,
+							5.6147
+						],
+						"confidence": 0.426,
+						"span": {
+							"offset": 1547,
+							"length": 5
+						}
+					},
+					{
+						"content": "Ltda.",
+						"polygon": [
+							4.4636,
+							5.5043,
+							4.7919,
+							5.5025,
+							4.7913,
+							5.6156,
+							4.463,
+							5.6137
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 1553,
+							"length": 5
+						}
+					},
+					{
+						"content": "CNPJ",
+						"polygon": [
+							1.0196,
+							5.6242,
+							1.2832,
+							5.6232,
+							1.2832,
+							5.7318,
+							1.0194,
+							5.7308
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1559,
+							"length": 4
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							1.3065,
+							5.6229,
+							1.346,
+							5.6224,
+							1.3461,
+							5.7319,
+							1.3066,
+							5.7318
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1564,
+							"length": 1
+						}
+					},
+					{
+						"content": "14.168.589/0001-46",
+						"polygon": [
+							1.4446,
+							5.6214,
+							2.6815,
+							5.621,
+							2.6815,
+							5.729,
+							1.4446,
+							5.7318
+						],
+						"confidence": 0.915,
+						"span": {
+							"offset": 1566,
+							"length": 18
+						}
+					},
+					{
+						"content": "Itaú",
+						"polygon": [
+							1.0224,
+							5.7396,
+							1.2928,
+							5.7392,
+							1.2926,
+							5.8574,
+							1.0223,
+							5.8551
+						],
+						"confidence": 0.938,
+						"span": {
+							"offset": 1585,
+							"length": 4
+						}
+					},
+					{
+						"content": "(341)",
+						"polygon": [
+							1.399,
+							5.7391,
+							1.679,
+							5.7381,
+							1.6784,
+							5.8557,
+							1.3988,
+							5.8574
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1590,
+							"length": 5
+						}
+					},
+					{
+						"content": ",",
+						"polygon": [
+							1.7311,
+							5.7378,
+							1.7581,
+							5.7378,
+							1.7575,
+							5.8552,
+							1.7304,
+							5.8553
+						],
+						"confidence": 0.939,
+						"span": {
+							"offset": 1596,
+							"length": 1
+						}
+					},
+					{
+						"content": "Agência",
+						"polygon": [
+							1.8412,
+							5.7376,
+							2.3258,
+							5.7387,
+							2.3254,
+							5.8542,
+							1.8405,
+							5.8552
+						],
+						"confidence": 0.608,
+						"span": {
+							"offset": 1598,
+							"length": 7
+						}
+					},
+					{
+						"content": "0185,",
+						"polygon": [
+							2.4108,
+							5.7389,
+							2.7352,
+							5.7368,
+							2.7337,
+							5.8556,
+							2.4102,
+							5.8538
+						],
+						"confidence": 0.843,
+						"span": {
+							"offset": 1606,
+							"length": 5
+						}
+					},
+					{
+						"content": "Conta",
+						"polygon": [
+							2.7989,
+							5.7365,
+							3.1658,
+							5.736,
+							3.164,
+							5.8558,
+							2.7973,
+							5.856
+						],
+						"confidence": 0.887,
+						"span": {
+							"offset": 1612,
+							"length": 5
+						}
+					},
+					{
+						"content": "Corrente",
+						"polygon": [
+							3.2238,
+							5.736,
+							3.7645,
+							5.736,
+							3.7639,
+							5.8535,
+							3.222,
+							5.8557
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1618,
+							"length": 8
+						}
+					},
+					{
+						"content": "17262-4.",
+						"polygon": [
+							3.8475,
+							5.7358,
+							4.3817,
+							5.7335,
+							4.3817,
+							5.8514,
+							3.8471,
+							5.8537
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 1627,
+							"length": 8
+						}
+					},
+					{
+						"content": "VALOR",
+						"polygon": [
+							2.6459,
+							6.3741,
+							3.1294,
+							6.3746,
+							3.1292,
+							6.5271,
+							2.6461,
+							6.5254
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1636,
+							"length": 5
+						}
+					},
+					{
+						"content": "TOTAL",
+						"polygon": [
+							3.177,
+							6.3746,
+							3.6505,
+							6.3749,
+							3.6499,
+							6.5287,
+							3.1768,
+							6.5267
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1642,
+							"length": 5
+						}
+					},
+					{
+						"content": "DO",
+						"polygon": [
+							3.6905,
+							6.3747,
+							3.8834,
+							6.3742,
+							3.8822,
+							6.5281,
+							3.6899,
+							6.5291
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1648,
+							"length": 2
+						}
+					},
+					{
+						"content": "SERVIÇO",
+						"polygon": [
+							3.931,
+							6.3743,
+							4.5348,
+							6.3748,
+							4.5341,
+							6.5298,
+							3.9297,
+							6.5282
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 1651,
+							"length": 7
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							4.5849,
+							6.3749,
+							4.655,
+							6.3749,
+							4.6546,
+							6.5296,
+							4.5843,
+							6.5297
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1659,
+							"length": 1
+						}
+					},
+					{
+						"content": "R$",
+						"polygon": [
+							4.7101,
+							6.375,
+							4.8755,
+							6.3761,
+							4.875,
+							6.529,
+							4.7099,
+							6.5295
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1661,
+							"length": 2
+						}
+					},
+					{
+						"content": "10.250,00",
+						"polygon": [
+							4.9281,
+							6.3765,
+							5.5685,
+							6.3798,
+							5.5685,
+							6.5304,
+							4.9274,
+							6.5288
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1664,
+							"length": 9
+						}
+					},
+					{
+						"content": "IMSS",
+						"polygon": [
+							1.2023,
+							6.5643,
+							1.4268,
+							6.5648,
+							1.4261,
+							6.6799,
+							1.2018,
+							6.6742
+						],
+						"confidence": 0.656,
+						"span": {
+							"offset": 1674,
+							"length": 4
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							1.4585,
+							6.5654,
+							1.6546,
+							6.5674,
+							1.6546,
+							6.6835,
+							1.4577,
+							6.6805
+						],
+						"confidence": 0.964,
+						"span": {
+							"offset": 1679,
+							"length": 4
+						}
+					},
+					{
+						"content": "IRRF",
+						"polygon": [
+							2.5317,
+							6.5613,
+							2.7558,
+							6.5637,
+							2.7554,
+							6.6786,
+							2.5316,
+							6.6767
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1684,
+							"length": 4
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							2.7802,
+							6.5639,
+							2.9986,
+							6.5642,
+							2.9981,
+							6.682,
+							2.7799,
+							6.6785
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 1689,
+							"length": 4
+						}
+					},
+					{
+						"content": "153,75",
+						"polygon": [
+							3.0598,
+							6.6944,
+							3.4061,
+							6.6954,
+							3.4061,
+							6.8015,
+							3.0599,
+							6.8038
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1694,
+							"length": 6
+						}
+					},
+					{
+						"content": "CSLL",
+						"polygon": [
+							3.8686,
+							6.5634,
+							4.1085,
+							6.5658,
+							4.1081,
+							6.6795,
+							3.8684,
+							6.6786
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 1701,
+							"length": 4
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							4.1309,
+							6.5663,
+							4.3475,
+							6.5661,
+							4.3475,
+							6.6803,
+							4.1305,
+							6.6797
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 1706,
+							"length": 4
+						}
+					},
+					{
+						"content": "102,50",
+						"polygon": [
+							4.3957,
+							6.6931,
+							4.7412,
+							6.6931,
+							4.7412,
+							6.8042,
+							4.3956,
+							6.8042
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1711,
+							"length": 6
+						}
+					},
+					{
+						"content": "COFINS",
+						"polygon": [
+							5.1479,
+							6.5624,
+							5.5149,
+							6.5647,
+							5.5145,
+							6.6812,
+							5.1477,
+							6.6791
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1718,
+							"length": 6
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							5.5474,
+							6.5652,
+							5.7443,
+							6.5655,
+							5.744,
+							6.6818,
+							5.547,
+							6.6812
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 1725,
+							"length": 4
+						}
+					},
+					{
+						"content": "307,50",
+						"polygon": [
+							5.7295,
+							6.6945,
+							6.0813,
+							6.6941,
+							6.0809,
+							6.8042,
+							5.7291,
+							6.8042
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1730,
+							"length": 6
+						}
+					},
+					{
+						"content": "PIS/PASEP",
+						"polygon": [
+							6.4102,
+							6.5635,
+							6.9204,
+							6.5666,
+							6.9197,
+							6.6773,
+							6.4099,
+							6.6748
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1737,
+							"length": 9
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							6.9531,
+							6.5669,
+							7.1546,
+							6.5665,
+							7.1546,
+							6.6768,
+							6.9524,
+							6.6773
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 1747,
+							"length": 4
+						}
+					},
+					{
+						"content": "66,63",
+						"polygon": [
+							7.1279,
+							6.6968,
+							7.417,
+							6.6968,
+							7.417,
+							6.8007,
+							7.1278,
+							6.8021
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1752,
+							"length": 5
+						}
+					},
+					{
+						"content": "Código",
+						"polygon": [
+							0.7941,
+							6.8274,
+							1.0972,
+							6.8282,
+							1.0967,
+							6.9341,
+							0.7942,
+							6.9337
+						],
+						"confidence": 0.946,
+						"span": {
+							"offset": 1758,
+							"length": 6
+						}
+					},
+					{
+						"content": "do",
+						"polygon": [
+							1.1198,
+							6.8282,
+							1.2324,
+							6.8296,
+							1.2314,
+							6.9361,
+							1.1191,
+							6.9344
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1765,
+							"length": 2
+						}
+					},
+					{
+						"content": "Serviço",
+						"polygon": [
+							1.2653,
+							6.8299,
+							1.5975,
+							6.8322,
+							1.597,
+							6.9377,
+							1.2643,
+							6.9361
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1768,
+							"length": 7
+						}
+					},
+					{
+						"content": "02881",
+						"polygon": [
+							0.8071,
+							6.9588,
+							1.1072,
+							6.9562,
+							1.1071,
+							7.0757,
+							0.808,
+							7.0757
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1776,
+							"length": 5
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							1.1653,
+							6.9559,
+							1.204,
+							6.9559,
+							1.2036,
+							7.0756,
+							1.165,
+							7.0755
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 1782,
+							"length": 1
+						}
+					},
+					{
+						"content": "Assessoria",
+						"polygon": [
+							1.233,
+							6.956,
+							1.8293,
+							6.9602,
+							1.8277,
+							7.0769,
+							1.2326,
+							7.0756
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 1784,
+							"length": 10
+						}
+					},
+					{
+						"content": "e",
+						"polygon": [
+							1.8526,
+							6.9605,
+							1.9048,
+							6.9611,
+							1.9029,
+							7.0768,
+							1.8508,
+							7.0768
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1795,
+							"length": 1
+						}
+					},
+					{
+						"content": "consultoría",
+						"polygon": [
+							1.9377,
+							6.961,
+							2.5302,
+							6.9608,
+							2.529,
+							7.0779,
+							1.9359,
+							7.0768
+						],
+						"confidence": 0.633,
+						"span": {
+							"offset": 1797,
+							"length": 11
+						}
+					},
+					{
+						"content": "em",
+						"polygon": [
+							2.5708,
+							6.9606,
+							2.6793,
+							6.9599,
+							2.6782,
+							7.0779,
+							2.5697,
+							7.0779
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1809,
+							"length": 2
+						}
+					},
+					{
+						"content": "informática.",
+						"polygon": [
+							2.7354,
+							6.9593,
+							3.3605,
+							6.9577,
+							3.3605,
+							7.0751,
+							2.7345,
+							7.0779
+						],
+						"confidence": 0.939,
+						"span": {
+							"offset": 1812,
+							"length": 12
+						}
+					},
+					{
+						"content": "Valor",
+						"polygon": [
+							0.7833,
+							7.1018,
+							1.0277,
+							7.0993,
+							1.0281,
+							7.2172,
+							0.7843,
+							7.2145
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 1825,
+							"length": 5
+						}
+					},
+					{
+						"content": "Total",
+						"polygon": [
+							1.0506,
+							7.0992,
+							1.2588,
+							7.0994,
+							1.2588,
+							7.2175,
+							1.051,
+							7.2173
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1831,
+							"length": 5
+						}
+					},
+					{
+						"content": "das",
+						"polygon": [
+							1.2913,
+							7.0997,
+							1.444,
+							7.1015,
+							1.4442,
+							7.2197,
+							1.2913,
+							7.2178
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1837,
+							"length": 3
+						}
+					},
+					{
+						"content": "Deduções",
+						"polygon": [
+							1.4803,
+							7.1017,
+							1.9138,
+							7.1024,
+							1.9136,
+							7.2179,
+							1.4804,
+							7.2198
+						],
+						"confidence": 0.664,
+						"span": {
+							"offset": 1841,
+							"length": 8
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							1.9367,
+							7.1022,
+							2.1566,
+							7.1048,
+							2.1566,
+							7.2184,
+							1.9365,
+							7.2179
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1850,
+							"length": 4
+						}
+					},
+					{
+						"content": "0,00",
+						"polygon": [
+							1.9188,
+							7.2413,
+							2.1509,
+							7.2398,
+							2.1509,
+							7.3421,
+							1.9211,
+							7.3434
+						],
+						"confidence": 0.934,
+						"span": {
+							"offset": 1855,
+							"length": 4
+						}
+					},
+					{
+						"content": "Base",
+						"polygon": [
+							2.3707,
+							7.1033,
+							2.6055,
+							7.0998,
+							2.6058,
+							7.2128,
+							2.3715,
+							7.2148
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1860,
+							"length": 4
+						}
+					},
+					{
+						"content": "de",
+						"polygon": [
+							2.637,
+							7.0999,
+							2.7368,
+							7.0999,
+							2.7372,
+							7.2128,
+							2.6373,
+							7.2124
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1865,
+							"length": 2
+						}
+					},
+					{
+						"content": "Cálculo",
+						"polygon": [
+							2.7701,
+							7.1003,
+							3.0993,
+							7.101,
+							3.0996,
+							7.2135,
+							2.7705,
+							7.2131
+						],
+						"confidence": 0.933,
+						"span": {
+							"offset": 1868,
+							"length": 7
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							3.1234,
+							7.1008,
+							3.3148,
+							7.1006,
+							3.3148,
+							7.2141,
+							3.1236,
+							7.2141
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1876,
+							"length": 4
+						}
+					},
+					{
+						"content": "10.250,00",
+						"polygon": [
+							2.9847,
+							7.2333,
+							3.4803,
+							7.2315,
+							3.4803,
+							7.3442,
+							2.9847,
+							7.3421
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1881,
+							"length": 9
+						}
+					},
+					{
+						"content": "Alíquota",
+						"polygon": [
+							3.7359,
+							7.1057,
+							4.0834,
+							7.1075,
+							4.0829,
+							7.2148,
+							3.7354,
+							7.2144
+						],
+						"confidence": 0.958,
+						"span": {
+							"offset": 1891,
+							"length": 8
+						}
+					},
+					{
+						"content": "(%)",
+						"polygon": [
+							4.1152,
+							7.1077,
+							4.2733,
+							7.1066,
+							4.2733,
+							7.2146,
+							4.1148,
+							7.2147
+						],
+						"confidence": 0.626,
+						"span": {
+							"offset": 1900,
+							"length": 3
+						}
+					},
+					{
+						"content": "2,90%",
+						"polygon": [
+							4.1352,
+							7.2362,
+							4.473,
+							7.2348,
+							4.473,
+							7.3485,
+							4.1354,
+							7.348
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1904,
+							"length": 5
+						}
+					},
+					{
+						"content": "Valor",
+						"polygon": [
+							4.8996,
+							7.1022,
+							5.1344,
+							7.1014,
+							5.1335,
+							7.2102,
+							4.8995,
+							7.2104
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1910,
+							"length": 5
+						}
+					},
+					{
+						"content": "do",
+						"polygon": [
+							5.161,
+							7.1017,
+							5.2553,
+							7.1024,
+							5.2544,
+							7.211,
+							5.16,
+							7.2103
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1916,
+							"length": 2
+						}
+					},
+					{
+						"content": "ISS",
+						"polygon": [
+							5.2766,
+							7.1026,
+							5.442,
+							7.1033,
+							5.4412,
+							7.2119,
+							5.2759,
+							7.2112
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 1919,
+							"length": 3
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							5.474,
+							7.1034,
+							5.6712,
+							7.1025,
+							5.6712,
+							7.2119,
+							5.4732,
+							7.2118
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1923,
+							"length": 4
+						}
+					},
+					{
+						"content": "297,25",
+						"polygon": [
+							5.6853,
+							7.2368,
+							6.0363,
+							7.2355,
+							6.0363,
+							7.346,
+							5.6851,
+							7.3451
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1928,
+							"length": 6
+						}
+					},
+					{
+						"content": "Crédito",
+						"polygon": [
+							6.4932,
+							7.1024,
+							6.8064,
+							7.1037,
+							6.806,
+							7.213,
+							6.4929,
+							7.211
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1935,
+							"length": 7
+						}
+					},
+					{
+						"content": "(R$)",
+						"polygon": [
+							6.8387,
+							7.1041,
+							7.0348,
+							7.1052,
+							7.0348,
+							7.2148,
+							6.8383,
+							7.2128
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 1943,
+							"length": 4
+						}
+					},
+					{
+						"content": "0,00",
+						"polygon": [
+							7.1885,
+							7.2381,
+							7.417,
+							7.2394,
+							7.417,
+							7.3438,
+							7.1884,
+							7.3442
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1948,
+							"length": 4
+						}
+					},
+					{
+						"content": "Número",
+						"polygon": [
+							3.527,
+							7.3678,
+							3.8773,
+							7.3679,
+							3.876,
+							7.4776,
+							3.5266,
+							7.4766
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 1953,
+							"length": 6
+						}
+					},
+					{
+						"content": "Inscrição",
+						"polygon": [
+							3.9096,
+							7.3678,
+							4.2957,
+							7.369,
+							4.2946,
+							7.4783,
+							3.9084,
+							7.4777
+						],
+						"confidence": 0.875,
+						"span": {
+							"offset": 1960,
+							"length": 9
+						}
+					},
+					{
+						"content": "da",
+						"polygon": [
+							4.3281,
+							7.3688,
+							4.4286,
+							7.3682,
+							4.4272,
+							7.4787,
+							4.3268,
+							7.4783
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1970,
+							"length": 2
+						}
+					},
+					{
+						"content": "Obra",
+						"polygon": [
+							4.4646,
+							7.3684,
+							4.6898,
+							7.3683,
+							4.6892,
+							7.4793,
+							4.463,
+							7.4784
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1973,
+							"length": 4
+						}
+					},
+					{
+						"content": "Valor",
+						"polygon": [
+							5.3314,
+							7.3665,
+							5.5656,
+							7.3668,
+							5.5649,
+							7.4772,
+							5.3306,
+							7.4772
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1978,
+							"length": 5
+						}
+					},
+					{
+						"content": "Aproximado",
+						"polygon": [
+							5.5875,
+							7.3669,
+							6.0998,
+							7.3664,
+							6.0988,
+							7.4772,
+							5.5869,
+							7.4772
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1984,
+							"length": 10
+						}
+					},
+					{
+						"content": "dos",
+						"polygon": [
+							6.1345,
+							7.3664,
+							6.2882,
+							7.3662,
+							6.2872,
+							7.4772,
+							6.1336,
+							7.4772
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1995,
+							"length": 3
+						}
+					},
+					{
+						"content": "Tributos",
+						"polygon": [
+							6.3138,
+							7.3662,
+							6.6687,
+							7.3657,
+							6.6676,
+							7.4772,
+							6.3127,
+							7.4772
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1999,
+							"length": 8
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							6.6944,
+							7.3657,
+							6.7273,
+							7.3657,
+							6.7263,
+							7.4772,
+							6.6933,
+							7.4772
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2008,
+							"length": 1
+						}
+					},
+					{
+						"content": "Fonte",
+						"polygon": [
+							6.7529,
+							7.3658,
+							7.0119,
+							7.3647,
+							7.0119,
+							7.4761,
+							6.752,
+							7.4772
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2010,
+							"length": 5
+						}
+					},
+					{
+						"content": "OUTRAS",
+						"polygon": [
+							3.2822,
+							7.6367,
+							3.8614,
+							7.6383,
+							3.8603,
+							7.79,
+							3.2816,
+							7.7872
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2016,
+							"length": 6
+						}
+					},
+					{
+						"content": "INFORMAÇÕES",
+						"polygon": [
+							3.9113,
+							7.6386,
+							4.9409,
+							7.6377,
+							4.9409,
+							7.7908,
+							3.9102,
+							7.7903
+						],
+						"confidence": 0.943,
+						"span": {
+							"offset": 2023,
+							"length": 11
+						}
+					},
+					{
+						"content": "(1)",
+						"polygon": [
+							0.8168,
+							7.8191,
+							0.9579,
+							7.8186,
+							0.9577,
+							7.9552,
+							0.8166,
+							7.9552
+						],
+						"confidence": 0.905,
+						"span": {
+							"offset": 2035,
+							"length": 3
+						}
+					},
+					{
+						"content": "Esta",
+						"polygon": [
+							1.0065,
+							7.8184,
+							1.2049,
+							7.8177,
+							1.2046,
+							7.9551,
+							1.0062,
+							7.9552
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 2039,
+							"length": 4
+						}
+					},
+					{
+						"content": "NFS-e",
+						"polygon": [
+							1.2314,
+							7.8177,
+							1.5666,
+							7.8173,
+							1.5655,
+							7.9545,
+							1.231,
+							7.9551
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 2044,
+							"length": 5
+						}
+					},
+					{
+						"content": "foi",
+						"polygon": [
+							1.6129,
+							7.8172,
+							1.7187,
+							7.8174,
+							1.7175,
+							7.9546,
+							1.6118,
+							7.9544
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2050,
+							"length": 3
+						}
+					},
+					{
+						"content": "emitida",
+						"polygon": [
+							1.7717,
+							7.8175,
+							2.1112,
+							7.818,
+							2.1097,
+							7.9545,
+							1.7704,
+							7.9546
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2054,
+							"length": 7
+						}
+					},
+					{
+						"content": "com",
+						"polygon": [
+							2.1598,
+							7.818,
+							2.3318,
+							7.8183,
+							2.3301,
+							7.9532,
+							2.1582,
+							7.9542
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2062,
+							"length": 3
+						}
+					},
+					{
+						"content": "respaldo",
+						"polygon": [
+							2.3781,
+							7.8184,
+							2.8125,
+							7.818,
+							2.811,
+							7.9526,
+							2.3764,
+							7.9529
+						],
+						"confidence": 0.838,
+						"span": {
+							"offset": 2066,
+							"length": 8
+						}
+					},
+					{
+						"content": "na",
+						"polygon": [
+							2.8566,
+							7.8179,
+							2.9735,
+							7.8179,
+							2.9722,
+							7.9519,
+							2.8552,
+							7.9524
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2075,
+							"length": 2
+						}
+					},
+					{
+						"content": "Lei",
+						"polygon": [
+							3.0154,
+							7.8178,
+							3.1499,
+							7.8177,
+							3.1488,
+							7.9512,
+							3.0141,
+							7.9517
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2078,
+							"length": 3
+						}
+					},
+					{
+						"content": "nº",
+						"polygon": [
+							3.2028,
+							7.8177,
+							3.2976,
+							7.8175,
+							3.2966,
+							7.9512,
+							3.2018,
+							7.951
+						],
+						"confidence": 0.349,
+						"span": {
+							"offset": 2082,
+							"length": 2
+						}
+					},
+					{
+						"content": "14.097/2005;",
+						"polygon": [
+							3.3461,
+							7.8174,
+							3.9658,
+							7.817,
+							3.9654,
+							7.9516,
+							3.3452,
+							7.9515
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 2085,
+							"length": 12
+						}
+					},
+					{
+						"content": "(2)",
+						"polygon": [
+							4.0143,
+							7.8171,
+							4.1488,
+							7.8171,
+							4.1485,
+							7.9513,
+							4.014,
+							7.9514
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2098,
+							"length": 3
+						}
+					},
+					{
+						"content": "Esta",
+						"polygon": [
+							4.1951,
+							7.8171,
+							4.398,
+							7.8172,
+							4.3975,
+							7.9512,
+							4.1948,
+							7.9513
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2102,
+							"length": 4
+						}
+					},
+					{
+						"content": "NFS-e",
+						"polygon": [
+							4.4245,
+							7.8172,
+							4.7574,
+							7.817,
+							4.7567,
+							7.9513,
+							4.4239,
+							7.9512
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2107,
+							"length": 5
+						}
+					},
+					{
+						"content": "foi",
+						"polygon": [
+							4.8015,
+							7.8169,
+							4.9096,
+							7.8169,
+							4.9087,
+							7.951,
+							4.8007,
+							7.9513
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2113,
+							"length": 3
+						}
+					},
+					{
+						"content": "CANCELADA",
+						"polygon": [
+							4.9603,
+							7.8169,
+							5.6285,
+							7.8165,
+							5.6274,
+							7.9493,
+							4.9594,
+							7.9509
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2117,
+							"length": 9
+						}
+					},
+					{
+						"content": "em",
+						"polygon": [
+							5.6682,
+							7.8167,
+							5.8093,
+							7.8176,
+							5.8084,
+							7.9496,
+							5.6672,
+							7.9493
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2127,
+							"length": 2
+						}
+					},
+					{
+						"content": "04/04/2024;",
+						"polygon": [
+							5.8556,
+							7.8179,
+							6.4414,
+							7.8175,
+							6.4414,
+							7.9497,
+							5.8547,
+							7.9497
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 2130,
+							"length": 11
+						}
+					},
+					{
+						"content": "Inscrição",
+						"polygon": [
+							4.7096,
+							2.3663,
+							5.1562,
+							2.3666,
+							5.1541,
+							2.4806,
+							4.7082,
+							2.4788
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 2142,
+							"length": 9
+						}
+					},
+					{
+						"content": "Municipal:",
+						"polygon": [
+							5.1805,
+							2.3666,
+							5.6963,
+							2.3691,
+							5.6901,
+							2.4822,
+							5.1782,
+							2.4811
+						],
+						"confidence": 0.651,
+						"span": {
+							"offset": 2152,
+							"length": 10
+						}
+					},
+					{
+						"content": "NOTA",
+						"polygon": [
+							1.027,
+							7.1741,
+							2.3191,
+							5.3069,
+							3.4124,
+							6.5359,
+							2.1873,
+							8.1685
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 2163,
+							"length": 4
+						}
+					},
+					{
+						"content": "CANCELADA",
+						"polygon": [
+							2.5347,
+							5.0131,
+							5.8639,
+							0.8498,
+							6.8978,
+							1.8123,
+							3.5988,
+							6.2546
+						],
+						"confidence": 0.877,
+						"span": {
+							"offset": 2168,
+							"length": 9
+						}
+					},
+					{
+						"content": "Municipio",
+						"polygon": [
+							1.2858,
+							7.3678,
+							1.6877,
+							7.3661,
+							1.6865,
+							7.482,
+							1.2853,
+							7.4819
+						],
+						"confidence": 0.601,
+						"span": {
+							"offset": 2178,
+							"length": 9
+						}
+					},
+					{
+						"content": "da",
+						"polygon": [
+							1.7104,
+							7.3662,
+							1.8166,
+							7.3665,
+							1.8149,
+							7.4823,
+							1.7091,
+							7.4822
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 2188,
+							"length": 2
+						}
+					},
+					{
+						"content": "Prestação",
+						"polygon": [
+							1.8393,
+							7.3666,
+							2.3001,
+							7.3671,
+							2.2988,
+							7.4829,
+							1.8377,
+							7.4824
+						],
+						"confidence": 0.963,
+						"span": {
+							"offset": 2191,
+							"length": 9
+						}
+					},
+					{
+						"content": "do",
+						"polygon": [
+							2.3304,
+							7.3668,
+							2.4309,
+							7.3662,
+							2.4295,
+							7.4829,
+							2.3292,
+							7.4829
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2201,
+							"length": 2
+						}
+					},
+					{
+						"content": "Serviço",
+						"polygon": [
+							2.465,
+							7.366,
+							2.7956,
+							7.3674,
+							2.7956,
+							7.4819,
+							2.4635,
+							7.4829
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2204,
+							"length": 7
+						}
+					}
+				],
+				"selectionMarks": [
+					{
+						"state": "unselected",
+						"polygon": [
+							4.0472,
+							3.7473,
+							4.1098,
+							3.7473,
+							4.1098,
+							3.8127,
+							4.0472,
+							3.8127
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2212,
+							"length": 12
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							3.0927,
+							3.7418,
+							3.1485,
+							3.7418,
+							3.1485,
+							3.8027,
+							3.0927,
+							3.8027
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2225,
+							"length": 12
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							4.8683,
+							3.7491,
+							4.9242,
+							3.7491,
+							4.9242,
+							3.8056,
+							4.8683,
+							3.8056
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2238,
+							"length": 12
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							1.8931,
+							5.7677,
+							1.9774,
+							5.7677,
+							1.9774,
+							5.8481,
+							1.8931,
+							5.8481
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2251,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							2.6812,
+							4.6857,
+							2.7587,
+							4.6857,
+							2.7587,
+							4.7648,
+							2.6812,
+							4.7648
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2262,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							4.1317,
+							2.6871,
+							4.1986,
+							2.6871,
+							4.1986,
+							2.758,
+							4.1317,
+							2.758
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2273,
+							"length": 10
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							4.9467,
+							4.8263,
+							5.002,
+							4.8263,
+							5.002,
+							4.88,
+							4.9467,
+							4.88
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2284,
+							"length": 12
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							6.3189,
+							3.3979,
+							6.3781,
+							3.3979,
+							6.3781,
+							3.4588,
+							6.3189,
+							3.4588
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2297,
+							"length": 12
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							4.2535,
+							5.407,
+							4.3243,
+							5.407,
+							4.3243,
+							5.4776,
+							4.2535,
+							5.4776
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2310,
+							"length": 10
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							3.9106,
+							5.4067,
+							3.9836,
+							5.4067,
+							3.9836,
+							5.4796,
+							3.9106,
+							5.4796
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2321,
+							"length": 12
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							5.4941,
+							4.5825,
+							5.5507,
+							4.5825,
+							5.5507,
+							4.6395,
+							5.4941,
+							4.6395
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2334,
+							"length": 12
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							0.953,
+							4.6301,
+							1.0228,
+							4.6301,
+							1.0228,
+							4.7414,
+							0.953,
+							4.7414
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2347,
+							"length": 12
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							5.8403,
+							3.3881,
+							5.9119,
+							3.3881,
+							5.9119,
+							3.4661,
+							5.8403,
+							3.4661
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2360,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							3.4354,
+							3.7363,
+							3.501,
+							3.7363,
+							3.501,
+							3.8045,
+							3.4354,
+							3.8045
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2371,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							4.1848,
+							4.5769,
+							4.2549,
+							4.5769,
+							4.2549,
+							4.6504,
+							4.1848,
+							4.6504
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2382,
+							"length": 10
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							4.1881,
+							4.8225,
+							4.245,
+							4.8225,
+							4.245,
+							4.8799,
+							4.1881,
+							4.8799
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2393,
+							"length": 12
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							4.2412,
+							5.527,
+							4.3175,
+							5.527,
+							4.3175,
+							5.5982,
+							4.2412,
+							5.5982
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2406,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							4.893,
+							4.5794,
+							4.9737,
+							4.5794,
+							4.9737,
+							4.6497,
+							4.893,
+							4.6497
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2417,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							2.6982,
+							4.5651,
+							2.8161,
+							4.5651,
+							2.8161,
+							4.6467,
+							2.6982,
+							4.6467
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2428,
+							"length": 10
+						}
+					},
+					{
+						"state": "selected",
+						"polygon": [
+							4.7948,
+							4.8205,
+							4.861,
+							4.8205,
+							4.861,
+							4.8883,
+							4.7948,
+							4.8883
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2439,
+							"length": 10
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							1.9148,
+							5.4096,
+							1.9866,
+							5.4096,
+							1.9866,
+							5.4791,
+							1.9148,
+							5.4791
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2450,
+							"length": 12
+						}
+					},
+					{
+						"state": "unselected",
+						"polygon": [
+							4.5305,
+							4.5797,
+							4.589,
+							4.5797,
+							4.589,
+							4.6398,
+							4.5305,
+							4.6398
+						],
+						"confidence": 0.1,
+						"span": {
+							"offset": 2463,
+							"length": 12
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "20240404014168589000146",
+						"polygon": [
+							0.8062,
+							0.9766,
+							1.8947,
+							0.9757,
+							1.8947,
+							1.0633,
+							0.8063,
+							1.0642
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO",
+						"polygon": [
+							1.754,
+							0.2064,
+							5.9036,
+							0.2055,
+							5.9036,
+							0.4052,
+							1.754,
+							0.4061
+						],
+						"spans": [
+							{
+								"offset": 24,
+								"length": 36
+							}
+						]
+					},
+					{
+						"content": "SECRETARIA MUNICIPAL DA FAZENDA",
+						"polygon": [
+							2.5185,
+							0.465,
+							5.147,
+							0.4647,
+							5.147,
+							0.6053,
+							2.5185,
+							0.6056
+						],
+						"spans": [
+							{
+								"offset": 61,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e",
+						"polygon": [
+							1.965,
+							0.7243,
+							5.7046,
+							0.7284,
+							5.7044,
+							0.8891,
+							1.9649,
+							0.885
+						],
+						"spans": [
+							{
+								"offset": 93,
+								"length": 42
+							}
+						]
+					},
+					{
+						"content": "Numero da Nota",
+						"polygon": [
+							6.1017,
+							0.1956,
+							6.9063,
+							0.1968,
+							6.9061,
+							0.2966,
+							6.1015,
+							0.2958
+						],
+						"spans": [
+							{
+								"offset": 136,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "00001992",
+						"polygon": [
+							6.3877,
+							0.3225,
+							7.1469,
+							0.3231,
+							7.1468,
+							0.4669,
+							6.3876,
+							0.4663
+						],
+						"spans": [
+							{
+								"offset": 151,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Data e Hora de Emissão",
+						"polygon": [
+							6.1043,
+							0.4863,
+							7.3039,
+							0.487,
+							7.3038,
+							0.5968,
+							6.1042,
+							0.5961
+						],
+						"spans": [
+							{
+								"offset": 160,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "04/04/2024 15:13:34",
+						"polygon": [
+							6.0933,
+							0.6236,
+							7.4365,
+							0.623,
+							7.4366,
+							0.7526,
+							6.0933,
+							0.7528
+						],
+						"spans": [
+							{
+								"offset": 183,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Código de Verificação",
+						"polygon": [
+							6.107,
+							0.7804,
+							7.2098,
+							0.7829,
+							7.2096,
+							0.8979,
+							6.1067,
+							0.8953
+						],
+						"spans": [
+							{
+								"offset": 203,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "BX3J-DNME",
+						"polygon": [
+							6.3664,
+							0.9221,
+							7.17,
+							0.9223,
+							7.17,
+							1.0443,
+							6.3663,
+							1.0441
+						],
+						"spans": [
+							{
+								"offset": 225,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "PRESTADOR DE SERVIÇOS",
+						"polygon": [
+							3.178,
+							1.0998,
+							5.0425,
+							1.0993,
+							5.0425,
+							1.2473,
+							3.178,
+							1.2477
+						],
+						"spans": [
+							{
+								"offset": 235,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "osbr",
+						"polygon": [
+							0.8558,
+							1.4401,
+							1.5266,
+							1.4378,
+							1.5282,
+							1.9149,
+							0.8565,
+							1.9172
+						],
+						"spans": [
+							{
+								"offset": 257,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "CPF/CNPJ: 14.168.589/0001-46",
+						"polygon": [
+							1.6048,
+							1.2816,
+							3.2221,
+							1.2805,
+							3.2222,
+							1.396,
+							1.6049,
+							1.3971
+						],
+						"spans": [
+							{
+								"offset": 262,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Inscrição Municipal: 4.570,770-7",
+						"polygon": [
+							4.71,
+							1.2869,
+							6.3233,
+							1.2776,
+							6.3242,
+							1.3967,
+							4.7109,
+							1.4083
+						],
+						"spans": [
+							{
+								"offset": 291,
+								"length": 32
+							}
+						]
+					},
+					{
+						"content": "Nome/Razão Social: OPTIMUS SYSTEM CONSULTORIA EM INFORMATICA E SAUDE LTDA",
+						"polygon": [
+							1.6023,
+							1.4279,
+							6.3442,
+							1.4258,
+							6.3443,
+							1.5527,
+							1.6024,
+							1.5555
+						],
+						"spans": [
+							{
+								"offset": 324,
+								"length": 73
+							}
+						]
+					},
+					{
+						"content": "Endereço: R JOAQUIM ANTUNES 1034, ANDAR 6 - PINHEIROS - CEP: 05415-001",
+						"polygon": [
+							1.6009,
+							1.5763,
+							5.8137,
+							1.5684,
+							5.8138,
+							1.6934,
+							1.6012,
+							1.7033
+						],
+						"spans": [
+							{
+								"offset": 398,
+								"length": 70
+							}
+						]
+					},
+					{
+						"content": "Município: São Paulo",
+						"polygon": [
+							1.6005,
+							1.7324,
+							2.6881,
+							1.7305,
+							2.6883,
+							1.8481,
+							1.6007,
+							1.85
+						],
+						"spans": [
+							{
+								"offset": 469,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "UF: SP",
+						"polygon": [
+							4.704,
+							1.7308,
+							5.0657,
+							1.7225,
+							5.0682,
+							1.8307,
+							4.7065,
+							1.839
+						],
+						"spans": [
+							{
+								"offset": 490,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "TOMADOR DE SERVIÇOS",
+						"polygon": [
+							3.2536,
+							2.0294,
+							4.9611,
+							2.0305,
+							4.961,
+							2.1671,
+							3.2535,
+							2.1659
+						],
+						"spans": [
+							{
+								"offset": 497,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Nome/Razão Social: SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL",
+						"polygon": [
+							0.8457,
+							2.2078,
+							4.8005,
+							2.2053,
+							4.8006,
+							2.3339,
+							0.8457,
+							2.3364
+						],
+						"spans": [
+							{
+								"offset": 517,
+								"length": 62
+							}
+						]
+					},
+					{
+						"content": "CPF/CNPJ: 33.564.543/0001-90",
+						"polygon": [
+							0.8495,
+							2.3566,
+							2.4752,
+							2.3555,
+							2.4753,
+							2.4733,
+							0.8496,
+							2.4748
+						],
+						"spans": [
+							{
+								"offset": 580,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "Endereço: CJ SBN Quadra 1 SN, ED. ROBERTO SIMONSEN - Asa Norte - CEP: 70040-903",
+						"polygon": [
+							0.8474,
+							2.5057,
+							5.5393,
+							2.4998,
+							5.5395,
+							2.6298,
+							0.8476,
+							2.6358
+						],
+						"spans": [
+							{
+								"offset": 609,
+								"length": 79
+							}
+						]
+					},
+					{
+						"content": "Município: Brasília",
+						"polygon": [
+							0.8455,
+							2.6639,
+							1.8063,
+							2.6644,
+							1.8063,
+							2.78,
+							0.8454,
+							2.7795
+						],
+						"spans": [
+							{
+								"offset": 689,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "UF: DF",
+						"polygon": [
+							3.5277,
+							2.6626,
+							3.8822,
+							2.663,
+							3.8821,
+							2.7684,
+							3.5276,
+							2.768
+						],
+						"spans": [
+							{
+								"offset": 709,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "E-mail: recebimento@cni.org.br",
+						"polygon": [
+							4.1148,
+							2.664,
+							5.8001,
+							2.6631,
+							5.8002,
+							2.7859,
+							4.1149,
+							2.7867
+						],
+						"spans": [
+							{
+								"offset": 716,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "INTERMEDIARIO DE SERVIÇOS",
+						"polygon": [
+							3.0672,
+							2.8416,
+							5.1447,
+							2.8493,
+							5.1442,
+							2.99,
+							3.0667,
+							2.9824
+						],
+						"spans": [
+							{
+								"offset": 747,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "CPF/CNPJ: ----",
+						"polygon": [
+							0.8516,
+							3.034,
+							1.6618,
+							3.0398,
+							1.6611,
+							3.1466,
+							0.8508,
+							3.1409
+						],
+						"spans": [
+							{
+								"offset": 773,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Nome/Razão Social:",
+						"polygon": [
+							2.6183,
+							3.0383,
+							3.6144,
+							3.0339,
+							3.6149,
+							3.1408,
+							2.6188,
+							3.1426
+						],
+						"spans": [
+							{
+								"offset": 788,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "DISCRIMINAÇÃO DOS SERVIÇOS",
+						"polygon": [
+							3.015,
+							3.2185,
+							5.2129,
+							3.2173,
+							5.2129,
+							3.3579,
+							3.0151,
+							3.3591
+						],
+						"spans": [
+							{
+								"offset": 807,
+								"length": 26
+							}
+						]
+					},
+					{
+						"content": "Ass. e cons. informática, prest. serv. inf. : Serviços especializados em TT para o SESI-DN",
+						"polygon": [
+							0.8104,
+							3.3675,
+							6.9389,
+							3.363,
+							6.939,
+							3.4831,
+							0.8105,
+							3.4876
+						],
+						"spans": [
+							{
+								"offset": 834,
+								"length": 90
+							}
+						]
+					},
+					{
+						"content": "SOLICITAÇÃO DE COMPRA: 025400",
+						"polygon": [
+							0.8181,
+							3.5988,
+							2.7421,
+							3.596,
+							2.7422,
+							3.7103,
+							0.8183,
+							3.7129
+						],
+						"spans": [
+							{
+								"offset": 925,
+								"length": 29
+							}
+						]
+					},
+					{
+						"content": "Centro de Custo: CNI/SESI/SENAI - DN - 401000 - Analytics - Engenharia ob",
+						"polygon": [
+							0.8151,
+							3.719,
+							5.8901,
+							3.7129,
+							5.8903,
+							3.8275,
+							0.8153,
+							3.8337
+						],
+						"spans": [
+							{
+								"offset": 955,
+								"length": 73
+							}
+						]
+					},
+					{
+						"content": "observatório Nacional",
+						"polygon": [
+							3.5649,
+							3.7154,
+							7.205,
+							3.7147,
+							7.205,
+							3.8319,
+							3.5649,
+							3.8326
+						],
+						"spans": [
+							{
+								"offset": 1029,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "VENCIMENTO: 22/04/2024",
+						"polygon": [
+							0.8112,
+							3.9598,
+							2.3365,
+							3.9562,
+							2.3368,
+							4.0685,
+							0.8115,
+							4.0722
+						],
+						"spans": [
+							{
+								"offset": 1051,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "VALOR BRUTO: R$ 10.250,00",
+						"polygon": [
+							0.8149,
+							4.1999,
+							2.6019,
+							4.1947,
+							2.6022,
+							4.3113,
+							0.8152,
+							4.3118
+						],
+						"spans": [
+							{
+								"offset": 1074,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "RETENÇÕES :",
+						"polygon": [
+							0.8171,
+							4.4372,
+							1.4928,
+							4.4391,
+							1.4925,
+							4.5488,
+							0.8167,
+							4.5467
+						],
+						"spans": [
+							{
+								"offset": 1100,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "- 1,5% I.R. Fonte:",
+						"polygon": [
+							0.9589,
+							4.5583,
+							2.1779,
+							4.557,
+							2.178,
+							4.6585,
+							0.959,
+							4.6597
+						],
+						"spans": [
+							{
+								"offset": 1112,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "R$",
+						"polygon": [
+							2.6668,
+							4.5629,
+							2.8144,
+							4.5576,
+							2.8177,
+							4.6495,
+							2.67,
+							4.6548
+						],
+						"spans": [
+							{
+								"offset": 1131,
+								"length": 2
+							}
+						]
+					},
+					{
+						"content": "153, 75, conforme art. 647, itens 12 e 18 do RIR/99.",
+						"polygon": [
+							3.0094,
+							4.5476,
+							6.5047,
+							4.547,
+							6.5047,
+							4.6633,
+							3.0094,
+							4.6639
+						],
+						"spans": [
+							{
+								"offset": 1134,
+								"length": 52
+							}
+						]
+					},
+					{
+						"content": "- 4,65% PIS/COFINS/CSLL: PS",
+						"polygon": [
+							0.9588,
+							4.6734,
+							2.8103,
+							4.6737,
+							2.8103,
+							4.7753,
+							0.9588,
+							4.775
+						],
+						"spans": [
+							{
+								"offset": 1187,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "476, 63, conforme Lei 10.833/03.",
+						"polygon": [
+							3.0198,
+							4.6713,
+							5.1256,
+							4.6674,
+							5.1258,
+							4.7795,
+							3.02,
+							4.7834
+						],
+						"spans": [
+							{
+								"offset": 1215,
+								"length": 32
+							}
+						]
+					},
+					{
+						"content": "Conforme Lei 12.741/2012, os tributos federais incidentes são aproximadamente 17,25% e os",
+						"polygon": [
+							0.8218,
+							4.7862,
+							6.9278,
+							4.7881,
+							6.9278,
+							4.9046,
+							0.8218,
+							4.9027
+						],
+						"spans": [
+							{
+								"offset": 1248,
+								"length": 89
+							}
+						]
+					},
+					{
+						"content": "municipais corresponde ao ISS demonstrado nesta nota fiscal.",
+						"polygon": [
+							0.8128,
+							4.9088,
+							4.9218,
+							4.9085,
+							4.9218,
+							5.0262,
+							0.8128,
+							5.0265
+						],
+						"spans": [
+							{
+								"offset": 1338,
+								"length": 60
+							}
+						]
+					},
+					{
+						"content": "VALOR LÍQUIDO A SER DEPOSITADO: R$ 9.619, 63",
+						"polygon": [
+							0.8149,
+							5.1414,
+							3.7821,
+							5.1416,
+							3.7821,
+							5.2663,
+							0.8149,
+							5.266
+						],
+						"spans": [
+							{
+								"offset": 1399,
+								"length": 44
+							}
+						]
+					},
+					{
+						"content": "FAVOR DEPOSITAR O VALOR LÍQUIDO EM CONTA ATÉ O VENCIMENTO:",
+						"polygon": [
+							0.8185,
+							5.3863,
+							4.7873,
+							5.384,
+							4.7874,
+							5.4996,
+							0.8186,
+							5.5028
+						],
+						"spans": [
+							{
+								"offset": 1444,
+								"length": 58
+							}
+						]
+					},
+					{
+						"content": "Optimus System Consultoria em informática e saúde Ltda.",
+						"polygon": [
+							1.02,
+							5.5049,
+							4.7887,
+							5.5014,
+							4.7888,
+							5.615,
+							1.0201,
+							5.6178
+						],
+						"spans": [
+							{
+								"offset": 1503,
+								"length": 55
+							}
+						]
+					},
+					{
+						"content": "CNPJ : 14.168.589/0001-46",
+						"polygon": [
+							1.0191,
+							5.6218,
+							2.6791,
+							5.6179,
+							2.6794,
+							5.7278,
+							1.0194,
+							5.7316
+						],
+						"spans": [
+							{
+								"offset": 1559,
+								"length": 25
+							}
+						]
+					},
+					{
+						"content": "Itaú (341) , Agência 0185, Conta Corrente 17262-4.",
+						"polygon": [
+							1.0221,
+							5.7386,
+							4.3779,
+							5.7335,
+							4.3781,
+							5.8527,
+							1.0223,
+							5.8574
+						],
+						"spans": [
+							{
+								"offset": 1585,
+								"length": 50
+							}
+						]
+					},
+					{
+						"content": "VALOR TOTAL DO SERVIÇO = R$ 10.250,00",
+						"polygon": [
+							2.6459,
+							6.3725,
+							5.5657,
+							6.376,
+							5.5655,
+							6.5288,
+							2.6457,
+							6.5253
+						],
+						"spans": [
+							{
+								"offset": 1636,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "IMSS (R$)",
+						"polygon": [
+							1.2024,
+							6.5615,
+							1.6544,
+							6.5673,
+							1.653,
+							6.6823,
+							1.2009,
+							6.6765
+						],
+						"spans": [
+							{
+								"offset": 1674,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "IRRF (R$)",
+						"polygon": [
+							2.5317,
+							6.5613,
+							2.9957,
+							6.5641,
+							2.995,
+							6.6799,
+							2.531,
+							6.6771
+						],
+						"spans": [
+							{
+								"offset": 1684,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "153,75",
+						"polygon": [
+							3.0598,
+							6.6944,
+							3.4027,
+							6.6941,
+							3.4028,
+							6.8017,
+							3.0599,
+							6.802
+						],
+						"spans": [
+							{
+								"offset": 1694,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "CSLL (R$)",
+						"polygon": [
+							3.8686,
+							6.5632,
+							4.3451,
+							6.5661,
+							4.3444,
+							6.6799,
+							3.8683,
+							6.677
+						],
+						"spans": [
+							{
+								"offset": 1701,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "102,50",
+						"polygon": [
+							4.3956,
+							6.6931,
+							4.7386,
+							6.6931,
+							4.7386,
+							6.8034,
+							4.3956,
+							6.8034
+						],
+						"spans": [
+							{
+								"offset": 1711,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "COFINS (R$)",
+						"polygon": [
+							5.1479,
+							6.5615,
+							5.7417,
+							6.5647,
+							5.7411,
+							6.6808,
+							5.1473,
+							6.6776
+						],
+						"spans": [
+							{
+								"offset": 1718,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "307,50",
+						"polygon": [
+							5.729,
+							6.6945,
+							6.0785,
+							6.6941,
+							6.0787,
+							6.8035,
+							5.7292,
+							6.8039
+						],
+						"spans": [
+							{
+								"offset": 1730,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "PIS/PASEP (R$)",
+						"polygon": [
+							6.4102,
+							6.5625,
+							7.1507,
+							6.5664,
+							7.1502,
+							6.6769,
+							6.4096,
+							6.6729
+						],
+						"spans": [
+							{
+								"offset": 1737,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "66,63",
+						"polygon": [
+							7.1278,
+							6.6968,
+							7.4154,
+							6.6969,
+							7.4154,
+							6.8018,
+							7.1278,
+							6.8017
+						],
+						"spans": [
+							{
+								"offset": 1752,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Código do Serviço",
+						"polygon": [
+							0.7941,
+							6.8259,
+							1.5945,
+							6.8304,
+							1.5939,
+							6.9364,
+							0.7935,
+							6.9319
+						],
+						"spans": [
+							{
+								"offset": 1758,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "02881 - Assessoria e consultoría em informática.",
+						"polygon": [
+							0.8071,
+							6.9555,
+							3.3577,
+							6.9577,
+							3.3576,
+							7.0779,
+							0.807,
+							7.0757
+						],
+						"spans": [
+							{
+								"offset": 1776,
+								"length": 48
+							}
+						]
+					},
+					{
+						"content": "Valor Total das Deduções (R$)",
+						"polygon": [
+							0.7833,
+							7.0976,
+							2.1537,
+							7.1027,
+							2.1532,
+							7.2205,
+							0.7829,
+							7.2155
+						],
+						"spans": [
+							{
+								"offset": 1825,
+								"length": 29
+							}
+						]
+					},
+					{
+						"content": "0,00",
+						"polygon": [
+							1.9188,
+							7.2405,
+							2.1505,
+							7.2395,
+							2.1509,
+							7.3408,
+							1.9192,
+							7.3418
+						],
+						"spans": [
+							{
+								"offset": 1855,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Base de Cálculo (R$)",
+						"polygon": [
+							2.3707,
+							7.0999,
+							3.3147,
+							7.099,
+							3.3148,
+							7.2127,
+							2.3708,
+							7.2136
+						],
+						"spans": [
+							{
+								"offset": 1860,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "10.250,00",
+						"polygon": [
+							2.9844,
+							7.2333,
+							3.4774,
+							7.2316,
+							3.4778,
+							7.3424,
+							2.9848,
+							7.3442
+						],
+						"spans": [
+							{
+								"offset": 1881,
+								"length": 9
+							}
+						]
+					},
+					{
+						"content": "Alíquota (%)",
+						"polygon": [
+							3.7355,
+							7.1056,
+							4.2728,
+							7.1065,
+							4.2727,
+							7.2143,
+							3.7354,
+							7.2134
+						],
+						"spans": [
+							{
+								"offset": 1891,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "2,90%",
+						"polygon": [
+							4.135,
+							7.2362,
+							4.4707,
+							7.2347,
+							4.4712,
+							7.3473,
+							4.1355,
+							7.3488
+						],
+						"spans": [
+							{
+								"offset": 1904,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Valor do ISS (R$)",
+						"polygon": [
+							4.8996,
+							7.1007,
+							5.6693,
+							7.1024,
+							5.669,
+							7.2107,
+							4.8994,
+							7.2088
+						],
+						"spans": [
+							{
+								"offset": 1910,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "297,25",
+						"polygon": [
+							5.6847,
+							7.2366,
+							6.0362,
+							7.2354,
+							6.0363,
+							7.3445,
+							5.6851,
+							7.3457
+						],
+						"spans": [
+							{
+								"offset": 1928,
+								"length": 6
+							}
+						]
+					},
+					{
+						"content": "Crédito (R$)",
+						"polygon": [
+							6.4933,
+							7.1012,
+							7.0347,
+							7.1047,
+							7.034,
+							7.2131,
+							6.4927,
+							7.2096
+						],
+						"spans": [
+							{
+								"offset": 1935,
+								"length": 12
+							}
+						]
+					},
+					{
+						"content": "0,00",
+						"polygon": [
+							7.1885,
+							7.2381,
+							7.4165,
+							7.2386,
+							7.4162,
+							7.3433,
+							7.1883,
+							7.3428
+						],
+						"spans": [
+							{
+								"offset": 1948,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Número Inscrição da Obra",
+						"polygon": [
+							3.5269,
+							7.3658,
+							4.6881,
+							7.3682,
+							4.6878,
+							7.4775,
+							3.5266,
+							7.475
+						],
+						"spans": [
+							{
+								"offset": 1953,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "Valor Aproximado dos Tributos / Fonte",
+						"polygon": [
+							5.3305,
+							7.3664,
+							7.0067,
+							7.3647,
+							7.0068,
+							7.4757,
+							5.3306,
+							7.4772
+						],
+						"spans": [
+							{
+								"offset": 1978,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "OUTRAS INFORMAÇÕES",
+						"polygon": [
+							3.2818,
+							7.6353,
+							4.9396,
+							7.6374,
+							4.9394,
+							7.7897,
+							3.2816,
+							7.7876
+						],
+						"spans": [
+							{
+								"offset": 2016,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Esta NFS-e foi CANCELADA em 04/04/2024;",
+						"polygon": [
+							0.8166,
+							7.8174,
+							6.436,
+							7.8163,
+							6.4361,
+							7.9519,
+							0.8166,
+							7.953
+						],
+						"spans": [
+							{
+								"offset": 2035,
+								"length": 106
+							}
+						]
+					},
+					{
+						"content": "Inscrição Municipal:",
+						"polygon": [
+							4.7087,
+							2.3638,
+							5.6943,
+							2.3678,
+							5.6938,
+							2.4822,
+							4.7082,
+							2.4783
+						],
+						"spans": [
+							{
+								"offset": 2142,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "NOTA CANCELADA",
+						"polygon": [
+							1.027,
+							7.2117,
+							5.6858,
+							0.8498,
+							6.8978,
+							1.7651,
+							2.2574,
+							8.1844
+						],
+						"spans": [
+							{
+								"offset": 2163,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "Municipio da Prestação do Serviço",
+						"polygon": [
+							1.2855,
+							7.3634,
+							2.795,
+							7.3666,
+							2.7947,
+							7.4829,
+							1.2853,
+							7.4801
+						],
+						"spans": [
+							{
+								"offset": 2178,
+								"length": 33
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 2475
+					}
+				]
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 23
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8062,
+							0.9766,
+							1.8947,
+							0.9757,
+							1.8947,
+							1.0633,
+							0.8063,
+							1.0642
+						]
+					}
+				],
+				"content": "20240404014168589000146"
+			},
+			{
+				"spans": [
+					{
+						"offset": 24,
+						"length": 68
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1.754,
+							0.2064,
+							5.9036,
+							0.2055,
+							5.9037,
+							0.6051,
+							1.754,
+							0.606
+						]
+					}
+				],
+				"role": "title",
+				"content": "PREFEITURA DO MUNICÍPIO DE SÃO PAULO SECRETARIA MUNICIPAL DA FAZENDA"
+			},
+			{
+				"spans": [
+					{
+						"offset": 93,
+						"length": 42
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1.965,
+							0.7243,
+							5.7046,
+							0.7284,
+							5.7044,
+							0.8891,
+							1.9649,
+							0.885
+						]
+					}
+				],
+				"content": "NOTA FISCAL ELETRÔNICA DE SERVIÇOS - NFS-e"
+			},
+			{
+				"spans": [
+					{
+						"offset": 136,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							6.1017,
+							0.1956,
+							6.9063,
+							0.1968,
+							6.9061,
+							0.2966,
+							6.1015,
+							0.2958
+						]
+					}
+				],
+				"content": "Numero da Nota"
+			},
+			{
+				"spans": [
+					{
+						"offset": 151,
+						"length": 8
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							6.3877,
+							0.3225,
+							7.1469,
+							0.3231,
+							7.1468,
+							0.4669,
+							6.3876,
+							0.4663
+						]
+					}
+				],
+				"content": "00001992"
+			},
+			{
+				"spans": [
+					{
+						"offset": 160,
+						"length": 42
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							6.0933,
+							0.4863,
+							7.4365,
+							0.4861,
+							7.4366,
+							0.7526,
+							6.0933,
+							0.7528
+						]
+					}
+				],
+				"content": "Data e Hora de Emissão 04/04/2024 15:13:34"
+			},
+			{
+				"spans": [
+					{
+						"offset": 203,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							6.107,
+							0.7804,
+							7.2098,
+							0.7829,
+							7.2092,
+							1.046,
+							6.1064,
+							1.0435
+						]
+					}
+				],
+				"content": "Código de Verificação BX3J-DNME"
+			},
+			{
+				"spans": [
+					{
+						"offset": 235,
+						"length": 21
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.178,
+							1.0998,
+							5.0425,
+							1.0993,
+							5.0425,
+							1.2473,
+							3.178,
+							1.2477
+						]
+					}
+				],
+				"content": "PRESTADOR DE SERVIÇOS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 257,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8548,
+							1.4401,
+							1.5266,
+							1.4378,
+							1.5282,
+							1.9149,
+							0.8565,
+							1.9172
+						]
+					}
+				],
+				"content": "osbr"
+			},
+			{
+				"spans": [
+					{
+						"offset": 262,
+						"length": 28
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1.6048,
+							1.2816,
+							3.2221,
+							1.2805,
+							3.2222,
+							1.396,
+							1.6049,
+							1.3971
+						]
+					}
+				],
+				"content": "CPF/CNPJ: 14.168.589/0001-46"
+			},
+			{
+				"spans": [
+					{
+						"offset": 291,
+						"length": 205
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1.5976,
+							1.3049,
+							6.3434,
+							1.2774,
+							6.3466,
+							1.8295,
+							1.6008,
+							1.857
+						]
+					}
+				],
+				"content": "Inscrição Municipal: 4.570,770-7 Nome/Razão Social: OPTIMUS SYSTEM CONSULTORIA EM INFORMATICA E SAUDE LTDA Endereço: R JOAQUIM ANTUNES 1034, ANDAR 6 - PINHEIROS - CEP: 05415-001 Município: São Paulo UF: SP"
+			},
+			{
+				"spans": [
+					{
+						"offset": 497,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.2536,
+							2.0294,
+							4.9611,
+							2.0305,
+							4.961,
+							2.1671,
+							3.2535,
+							2.1659
+						]
+					}
+				],
+				"content": "TOMADOR DE SERVIÇOS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 517,
+						"length": 62
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8457,
+							2.2078,
+							4.8005,
+							2.2053,
+							4.8006,
+							2.3339,
+							0.8457,
+							2.3364
+						]
+					}
+				],
+				"content": "Nome/Razão Social: SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL"
+			},
+			{
+				"spans": [
+					{
+						"offset": 580,
+						"length": 28
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8495,
+							2.3566,
+							2.4752,
+							2.3552,
+							2.4753,
+							2.4733,
+							0.8496,
+							2.4748
+						]
+					}
+				],
+				"content": "CPF/CNPJ: 33.564.543/0001-90"
+			},
+			{
+				"spans": [
+					{
+						"offset": 609,
+						"length": 99
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8451,
+							2.5057,
+							5.5393,
+							2.4998,
+							5.5397,
+							2.7753,
+							0.8454,
+							2.7813
+						]
+					}
+				],
+				"content": "Endereço: CJ SBN Quadra 1 SN, ED. ROBERTO SIMONSEN - Asa Norte - CEP: 70040-903 Município: Brasília"
+			},
+			{
+				"spans": [
+					{
+						"offset": 709,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.5277,
+							2.6626,
+							3.8822,
+							2.663,
+							3.8821,
+							2.7684,
+							3.5276,
+							2.768
+						]
+					}
+				],
+				"content": "UF: DF"
+			},
+			{
+				"spans": [
+					{
+						"offset": 716,
+						"length": 30
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							4.1148,
+							2.664,
+							5.8001,
+							2.6631,
+							5.8002,
+							2.7859,
+							4.1149,
+							2.7867
+						]
+					}
+				],
+				"content": "E-mail: recebimento@cni.org.br"
+			},
+			{
+				"spans": [
+					{
+						"offset": 747,
+						"length": 25
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.0672,
+							2.8416,
+							5.1447,
+							2.8493,
+							5.1442,
+							2.99,
+							3.0667,
+							2.9824
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "INTERMEDIARIO DE SERVIÇOS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 773,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8516,
+							3.034,
+							1.6618,
+							3.0398,
+							1.6611,
+							3.1466,
+							0.8508,
+							3.1409
+						]
+					}
+				],
+				"content": "CPF/CNPJ: ----"
+			},
+			{
+				"spans": [
+					{
+						"offset": 788,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2.6183,
+							3.0383,
+							3.6144,
+							3.0339,
+							3.6149,
+							3.1408,
+							2.6188,
+							3.1453
+						]
+					}
+				],
+				"content": "Nome/Razão Social:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 807,
+						"length": 26
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.015,
+							3.2185,
+							5.2129,
+							3.2173,
+							5.2129,
+							3.3579,
+							3.0151,
+							3.3591
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "DISCRIMINAÇÃO DOS SERVIÇOS"
+			},
+			{
+				"spans": [
+					{
+						"offset": 834,
+						"length": 90
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8104,
+							3.3675,
+							6.9389,
+							3.363,
+							6.939,
+							3.4831,
+							0.8105,
+							3.4876
+						]
+					}
+				],
+				"content": "Ass. e cons. informática, prest. serv. inf. : Serviços especializados em TT para o SESI-DN"
+			},
+			{
+				"spans": [
+					{
+						"offset": 925,
+						"length": 125
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8151,
+							3.5966,
+							7.2049,
+							3.5948,
+							7.205,
+							3.8319,
+							0.8152,
+							3.8337
+						]
+					}
+				],
+				"content": "SOLICITAÇÃO DE COMPRA: 025400 Centro de Custo: CNI/SESI/SENAI - DN - 401000 - Analytics - Engenharia ob observatório Nacional"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1051,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8112,
+							3.9598,
+							2.3365,
+							3.9562,
+							2.3368,
+							4.0685,
+							0.8115,
+							4.0722
+						]
+					}
+				],
+				"content": "VENCIMENTO: 22/04/2024"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1074,
+						"length": 25
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8149,
+							4.1999,
+							2.6019,
+							4.1947,
+							2.6022,
+							4.3113,
+							0.8152,
+							4.3164
+						]
+					}
+				],
+				"content": "VALOR BRUTO: R$ 10.250,00"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1100,
+						"length": 298
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.813,
+							4.4372,
+							6.9279,
+							4.4391,
+							6.9277,
+							5.0284,
+							0.8128,
+							5.0265
+						]
+					}
+				],
+				"content": "RETENÇÕES : - 1,5% I.R. Fonte: R$ 153, 75, conforme art. 647, itens 12 e 18 do RIR/99. - 4,65% PIS/COFINS/CSLL: PS 476, 63, conforme Lei 10.833/03. Conforme Lei 12.741/2012, os tributos federais incidentes são aproximadamente 17,25% e os municipais corresponde ao ISS demonstrado nesta nota fiscal."
+			},
+			{
+				"spans": [
+					{
+						"offset": 1399,
+						"length": 44
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8149,
+							5.1414,
+							3.7821,
+							5.1416,
+							3.7821,
+							5.2663,
+							0.8149,
+							5.266
+						]
+					}
+				],
+				"content": "VALOR LÍQUIDO A SER DEPOSITADO: R$ 9.619, 63"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1444,
+						"length": 191
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8185,
+							5.3863,
+							4.7887,
+							5.384,
+							4.789,
+							5.8552,
+							0.8188,
+							5.8575
+						]
+					}
+				],
+				"content": "FAVOR DEPOSITAR O VALOR LÍQUIDO EM CONTA ATÉ O VENCIMENTO: Optimus System Consultoria em informática e saúde Ltda. CNPJ : 14.168.589/0001-46 Itaú (341) , Agência 0185, Conta Corrente 17262-4."
+			},
+			{
+				"spans": [
+					{
+						"offset": 1636,
+						"length": 37
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2.6459,
+							6.3725,
+							5.5657,
+							6.376,
+							5.5655,
+							6.5288,
+							2.6457,
+							6.5253
+						]
+					}
+				],
+				"content": "VALOR TOTAL DO SERVIÇO = R$ 10.250,00"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1674,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1.2024,
+							6.5615,
+							1.6544,
+							6.5673,
+							1.653,
+							6.6823,
+							1.2009,
+							6.6765
+						]
+					}
+				],
+				"content": "IMSS (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1684,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2.5317,
+							6.5613,
+							2.9957,
+							6.5641,
+							2.995,
+							6.6799,
+							2.531,
+							6.6771
+						]
+					}
+				],
+				"content": "IRRF (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1694,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.0598,
+							6.6944,
+							3.4027,
+							6.6941,
+							3.4028,
+							6.8017,
+							3.0599,
+							6.802
+						]
+					}
+				],
+				"content": "153,75"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1701,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.8686,
+							6.5632,
+							4.3451,
+							6.5661,
+							4.3444,
+							6.6799,
+							3.8683,
+							6.677
+						]
+					}
+				],
+				"content": "CSLL (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1711,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							4.3956,
+							6.6931,
+							4.7386,
+							6.6931,
+							4.7386,
+							6.8034,
+							4.3956,
+							6.8034
+						]
+					}
+				],
+				"content": "102,50"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1718,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							5.1479,
+							6.5615,
+							5.7417,
+							6.5647,
+							5.7411,
+							6.6808,
+							5.1473,
+							6.6776
+						]
+					}
+				],
+				"content": "COFINS (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1730,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							5.729,
+							6.6945,
+							6.0785,
+							6.6941,
+							6.0787,
+							6.8035,
+							5.7292,
+							6.8039
+						]
+					}
+				],
+				"content": "307,50"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1737,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							6.4102,
+							6.5625,
+							7.1507,
+							6.5664,
+							7.1502,
+							6.6769,
+							6.4096,
+							6.6729
+						]
+					}
+				],
+				"content": "PIS/PASEP (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1752,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							7.1278,
+							6.6968,
+							7.4154,
+							6.6969,
+							7.4154,
+							6.8018,
+							7.1278,
+							6.8017
+						]
+					}
+				],
+				"content": "66,63"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1758,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.7941,
+							6.8259,
+							1.5945,
+							6.8304,
+							1.5939,
+							6.9364,
+							0.7935,
+							6.9319
+						]
+					}
+				],
+				"content": "Código do Serviço"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1776,
+						"length": 48
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8071,
+							6.9555,
+							3.3577,
+							6.9577,
+							3.3576,
+							7.0779,
+							0.807,
+							7.0757
+						]
+					}
+				],
+				"content": "02881 - Assessoria e consultoría em informática."
+			},
+			{
+				"spans": [
+					{
+						"offset": 1825,
+						"length": 29
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.7833,
+							7.0976,
+							2.1537,
+							7.1027,
+							2.1532,
+							7.2205,
+							0.7829,
+							7.2155
+						]
+					}
+				],
+				"content": "Valor Total das Deduções (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1855,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1.9188,
+							7.2405,
+							2.1505,
+							7.2395,
+							2.1509,
+							7.3408,
+							1.9192,
+							7.3418
+						]
+					}
+				],
+				"content": "0,00"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1860,
+						"length": 20
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2.3707,
+							7.0999,
+							3.3147,
+							7.099,
+							3.3148,
+							7.2127,
+							2.3708,
+							7.2136
+						]
+					}
+				],
+				"content": "Base de Cálculo (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1881,
+						"length": 9
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							2.9844,
+							7.2333,
+							3.4774,
+							7.2316,
+							3.4778,
+							7.3424,
+							2.9848,
+							7.3442
+						]
+					}
+				],
+				"content": "10.250,00"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1891,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.7355,
+							7.1056,
+							4.2728,
+							7.1065,
+							4.2727,
+							7.2143,
+							3.7354,
+							7.2134
+						]
+					}
+				],
+				"content": "Alíquota (%)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1904,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							4.135,
+							7.2362,
+							4.4707,
+							7.2347,
+							4.4712,
+							7.3473,
+							4.1355,
+							7.3488
+						]
+					}
+				],
+				"content": "2,90%"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1910,
+						"length": 17
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							4.8996,
+							7.1007,
+							5.6693,
+							7.1024,
+							5.669,
+							7.2107,
+							4.8994,
+							7.2088
+						]
+					}
+				],
+				"content": "Valor do ISS (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1928,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							5.6847,
+							7.2366,
+							6.0362,
+							7.2354,
+							6.0363,
+							7.3445,
+							5.6851,
+							7.3457
+						]
+					}
+				],
+				"content": "297,25"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1935,
+						"length": 12
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							6.4933,
+							7.1012,
+							7.0347,
+							7.1047,
+							7.034,
+							7.2131,
+							6.4927,
+							7.2096
+						]
+					}
+				],
+				"content": "Crédito (R$)"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1948,
+						"length": 4
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							7.1885,
+							7.2381,
+							7.4165,
+							7.2386,
+							7.4162,
+							7.3433,
+							7.1883,
+							7.3428
+						]
+					}
+				],
+				"content": "0,00"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1953,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.5269,
+							7.3658,
+							4.6881,
+							7.3682,
+							4.6878,
+							7.4775,
+							3.5266,
+							7.475
+						]
+					}
+				],
+				"content": "Número Inscrição da Obra"
+			},
+			{
+				"spans": [
+					{
+						"offset": 1978,
+						"length": 37
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							5.3305,
+							7.3664,
+							7.0067,
+							7.3647,
+							7.0068,
+							7.4757,
+							5.3306,
+							7.4775
+						]
+					}
+				],
+				"content": "Valor Aproximado dos Tributos / Fonte"
+			},
+			{
+				"spans": [
+					{
+						"offset": 2016,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							3.2818,
+							7.6353,
+							4.9396,
+							7.6374,
+							4.9394,
+							7.7897,
+							3.2816,
+							7.7876
+						]
+					}
+				],
+				"role": "sectionHeading",
+				"content": "OUTRAS INFORMAÇÕES"
+			},
+			{
+				"spans": [
+					{
+						"offset": 2035,
+						"length": 106
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8166,
+							7.8174,
+							6.436,
+							7.8163,
+							6.4361,
+							7.9519,
+							0.8166,
+							7.953
+						]
+					}
+				],
+				"content": "(1) Esta NFS-e foi emitida com respaldo na Lei nº 14.097/2005; (2) Esta NFS-e foi CANCELADA em 04/04/2024;"
+			},
+			{
+				"spans": [
+					{
+						"offset": 2142,
+						"length": 69
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							5.6858,
+							0.8498,
+							6.9659,
+							1.787,
+							2.2692,
+							8.2005,
+							0.9892,
+							7.2633
+						]
+					}
+				],
+				"content": "Inscrição Municipal: NOTA CANCELADA Municipio da Prestação do Serviço"
+			}
+		],
+		"styles": [],
+		"contentFormat": "text",
+		"sections": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 0
+					},
+					{
+						"offset": 0,
+						"length": 2211
+					}
+				],
+				"elements": [
+					"/sections/1",
+					"/sections/2"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 0
+					},
+					{
+						"offset": 0,
+						"length": 23
+					}
+				],
+				"elements": [
+					"/figures/0",
+					"/paragraphs/0"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 24,
+						"length": 2187
+					}
+				],
+				"elements": [
+					"/paragraphs/1",
+					"/paragraphs/2",
+					"/paragraphs/3",
+					"/paragraphs/4",
+					"/paragraphs/5",
+					"/paragraphs/6",
+					"/paragraphs/7",
+					"/figures/1",
+					"/paragraphs/9",
+					"/paragraphs/10",
+					"/paragraphs/11",
+					"/paragraphs/12",
+					"/paragraphs/13",
+					"/paragraphs/14",
+					"/paragraphs/15",
+					"/paragraphs/16",
+					"/sections/3",
+					"/sections/4",
+					"/sections/5"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 747,
+						"length": 59
+					}
+				],
+				"elements": [
+					"/paragraphs/17",
+					"/paragraphs/18",
+					"/paragraphs/19"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 807,
+						"length": 1208
+					}
+				],
+				"elements": [
+					"/paragraphs/20",
+					"/paragraphs/21",
+					"/paragraphs/22",
+					"/paragraphs/23",
+					"/paragraphs/24",
+					"/paragraphs/25",
+					"/paragraphs/26",
+					"/paragraphs/27",
+					"/paragraphs/28",
+					"/paragraphs/29",
+					"/paragraphs/30",
+					"/paragraphs/31",
+					"/paragraphs/32",
+					"/paragraphs/33",
+					"/paragraphs/34",
+					"/paragraphs/35",
+					"/paragraphs/36",
+					"/paragraphs/37",
+					"/paragraphs/38",
+					"/paragraphs/39",
+					"/paragraphs/40",
+					"/paragraphs/41",
+					"/paragraphs/42",
+					"/paragraphs/43",
+					"/paragraphs/44",
+					"/paragraphs/45",
+					"/paragraphs/46",
+					"/paragraphs/47",
+					"/paragraphs/48",
+					"/paragraphs/49",
+					"/paragraphs/50",
+					"/paragraphs/51"
+				]
+			},
+			{
+				"spans": [
+					{
+						"offset": 2016,
+						"length": 195
+					}
+				],
+				"elements": [
+					"/paragraphs/52",
+					"/paragraphs/53",
+					"/paragraphs/54"
+				]
+			}
+		],
+		"figures": [
+			{
+				"id": "1.1",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.8934,
+							0.2054,
+							1.4917,
+							0.2052,
+							1.4916,
+							0.9752,
+							0.8933,
+							0.9754
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 0
+					}
+				]
+			},
+			{
+				"id": "1.2",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0.825,
+							1.2665,
+							1.5646,
+							1.2664,
+							1.5646,
+							1.9324,
+							0.825,
+							1.9326
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 257,
+						"length": 4
+					}
+				],
+				"elements": [
+					"/paragraphs/8"
+				]
+			}
+		]
+	}
+}
